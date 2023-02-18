@@ -1,0 +1,5025 @@
+[{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa1"
+  },
+  "title": "Avatar: The Way of Water",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1670976000000"
+    }
+  },
+  "category": "Science Fiction",
+  "movieDirector": "James Cameron",
+  "backdrop_path": "/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
+  "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "trailer": "o5F8MOz_IDw",
+  "cast": [
+    {
+      "name": "Sam Worthington",
+      "image": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "image": "/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "image": "/flfhep27iBxseZIlxOMHt6zJFX1.jpg"
+    },
+    {
+      "name": "Britain Dalton",
+      "image": "/zB42Yop5X3CPLzguun11XqdcLkW.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "image": "/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg"
+    },
+    {
+      "name": "Jack Champion",
+      "image": "/uOJ73djJE6XDRvKCmewOkvD0wdK.jpg"
+    },
+    {
+      "name": "Cliff Curtis",
+      "image": "/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "image": "/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "image": "/pZQ4un6v0EANFMAiJYEaGRsCFWE.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "image": "/8IBLs1BkLZpOTVREt5yDusW1nim.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa2"
+  },
+  "title": "Glass Onion: A Knives Out Mystery",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669161600000"
+    }
+  },
+  "category": "Mystery",
+  "movieDirector": "Rian Johnson",
+  "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+  "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+  "description": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+  "trailer": "gj5ibYSz8C0",
+  "cast": [
+    {
+      "name": "Daniel Craig",
+      "image": "/6j9Hu3gZsMEl6vZHNTko9yqp0Y6.jpg"
+    },
+    {
+      "name": "Edward Norton",
+      "image": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "name": "Janelle Monáe",
+      "image": "/xavjGiGltQEDWqNdbe0zd1lO0UR.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "image": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "name": "Leslie Odom Jr.",
+      "image": "/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg"
+    },
+    {
+      "name": "Kate Hudson",
+      "image": "/vCSuPFndH3sbCYZdi1pMiKvzRIp.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "image": "/sAeWLLUFEVggkLjrnkI6NiUMtLO.jpg"
+    },
+    {
+      "name": "Jessica Henwick",
+      "image": "/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
+    },
+    {
+      "name": "Madelyn Cline",
+      "image": "/qUUfTmpZPhy4zIs8oVk7OINLQqu.jpg"
+    },
+    {
+      "name": "Noah Segan",
+      "image": "/j1mjH6uOZlKaiQ18U4SaTnmnjMl.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa3"
+  },
+  "title": "Top Gun: Maverick",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1653350400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Joseph Kosinski",
+  "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+  "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+  "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+  "trailer": "giXco2jaZ_4",
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "image": "/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+    },
+    {
+      "name": "Miles Teller",
+      "image": "/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "image": "/egh1eOHuYgeoqdlLQgaXMl6cPOm.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "image": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Glen Powell",
+      "image": "/lRbbndkwOXyvep9Y7kHiwbh9Ji5.jpg"
+    },
+    {
+      "name": "Ed Harris",
+      "image": "/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg"
+    },
+    {
+      "name": "Val Kilmer",
+      "image": "/asscfTVTglxMBEeJiDYxUXM4bm9.jpg"
+    },
+    {
+      "name": "Lewis Pullman",
+      "image": "/jAo0Rxl9EYVxLnhUlBww5Uxl89v.jpg"
+    },
+    {
+      "name": "Charles Parnell",
+      "image": "/5cxJNdHIzDiqHRfC6uKgk4ssEqC.jpg"
+    },
+    {
+      "name": "Bashir Salahuddin",
+      "image": "/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+    }
+  ],
+  "rating": [
+    {
+      "rating": 5,
+      "commentTitle": "amazing movie",
+      "commentContent": "loved the movie",
+      "userId": "123",
+      "_id": {
+        "$oid": "63eecd03cc2a7f9d3507f932"
+      }
+    },
+    {
+      "rating": 5,
+      "commentTitle": "amazing movie",
+      "commentContent": "loved the movie",
+      "userId": "123",
+      "_id": {
+        "$oid": "63eecd64adb87b2e1727f336"
+      }
+    }
+  ],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1676668482209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa4"
+  },
+  "title": "Violent Night",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669766400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Jonathan Eusebio",
+  "backdrop_path": "/6mEYUYdkKoVCMeYf3rTFj0L1uyv.jpg",
+  "poster_path": "/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg",
+  "description": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+  "trailer": "a53e4HHnx_s",
+  "cast": [
+    {
+      "name": "David Harbour",
+      "image": "/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "image": "/kEbXDtcPJ46GEhj5QlCTLZS6PWE.jpg"
+    },
+    {
+      "name": "Beverly D'Angelo",
+      "image": "/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
+    },
+    {
+      "name": "Alex Hassell",
+      "image": "/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg"
+    },
+    {
+      "name": "Alexis Louder",
+      "image": "/fCLuN1yyzMYPIuw7WndyYQ02cfv.jpg"
+    },
+    {
+      "name": "Edi Patterson",
+      "image": "/ecVF2n0OrZcbDlPEkNnrAUyWQuH.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "image": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Leah Brady",
+      "image": "/4KzEubHWaRbpFrKEGiORNEgLJZI.jpg"
+    },
+    {
+      "name": "André Eriksen",
+      "image": "/n2TRohxYgXXM4jphEnUYsS6Io9b.jpg"
+    },
+    {
+      "name": "Brendan Fletcher",
+      "image": "/dSXct01FSuMQmuTt2PuBlV4veTY.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa5"
+  },
+  "title": "Puss in Boots: The Last Wish",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1670371200000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Joel Crawford",
+  "backdrop_path": "/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
+  "poster_path": "/lmf0zzR7ritjOL3qumRh3hfvOFK.jpg",
+  "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "trailer": "tHb7WlgyaUc",
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "image": "/iWIUEwgn2KW50MssR7tdPeFoRGW.jpg"
+    },
+    {
+      "name": "Salma Hayek",
+      "image": "/a1VhN6kvw4tuRrIvGnvAjHAWnD5.jpg"
+    },
+    {
+      "name": "Harvey Guillén",
+      "image": "/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    },
+    {
+      "name": "Wagner Moura",
+      "image": "/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg"
+    },
+    {
+      "name": "Florence Pugh",
+      "image": "/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+    },
+    {
+      "name": "Olivia Colman",
+      "image": "/1KTXGJaqWRnsoA6qeaUa7U2zkHL.jpg"
+    },
+    {
+      "name": "Ray Winstone",
+      "image": "/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+    },
+    {
+      "name": "Samson Kayo",
+      "image": "/jyGT8cgl6MEANOpRKoHgXaC1yp6.jpg"
+    },
+    {
+      "name": "John Mulaney",
+      "image": "/dCvVHa6dI0zcavzzcaN2qNCYcoI.jpg"
+    },
+    {
+      "name": "Da'Vine Joy Randolph",
+      "image": "/awNT6lltD8zItbGtolmO8IGT8ot.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa6"
+  },
+  "title": "Black Adam",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666137600000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Jaume Collet-Serra",
+  "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+  "poster_path": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+  "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+  "trailer": "mkomfZHG5q4",
+  "cast": [
+    {
+      "name": "Dwayne Johnson",
+      "image": "/cgoy7t5Ve075naBPcewZrc08qGw.jpg"
+    },
+    {
+      "name": "Aldis Hodge",
+      "image": "/jPpnaAGFXaIeOrRNUHIHxk3fIJL.jpg"
+    },
+    {
+      "name": "Noah Centineo",
+      "image": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+    },
+    {
+      "name": "Sarah Shahi",
+      "image": "/dFnYqsEZQMAuatj367fohnB1rFI.jpg"
+    },
+    {
+      "name": "Quintessa Swindell",
+      "image": "/xKUFfFJR6o5Ka7AmetGMYjSmBGO.jpg"
+    },
+    {
+      "name": "Marwan Kenzari",
+      "image": "/66903sgNtyzHN0Mi3D88UYgbH86.jpg"
+    },
+    {
+      "name": "Mo Amer",
+      "image": "/vA78SdELZxQCLt7BF3OOHMxlh87.jpg"
+    },
+    {
+      "name": "Bodhi Sabongui",
+      "image": "/eSsi0SrWwp3TfXeUo7HfXqlROjG.jpg"
+    },
+    {
+      "name": "Pierce Brosnan",
+      "image": "/mciqKRUdKFGF8CUEMiimcA1sdDN.jpg"
+    },
+    {
+      "name": "James Cusati-Moyer",
+      "image": "/hzdNg0B4iyslssXP0FuYXIS3P7I.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa7"
+  },
+  "title": "Troll",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669852800000"
+    }
+  },
+  "category": "Fantasy",
+  "movieDirector": "Roar Uthaug",
+  "backdrop_path": "/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+  "poster_path": "/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+  "description": "Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?",
+  "trailer": "AiohkY_XQYQ",
+  "cast": [
+    {
+      "name": "Ine Marie Wilmann",
+      "image": "/bu9JEeHHOl9kHGXzxVsNf8B4FDm.jpg"
+    },
+    {
+      "name": "Kim S. Falck-Jørgensen",
+      "image": "/pMwD3F5ANWQNF9UU3KivLt2EgFa.jpg"
+    },
+    {
+      "name": "Mads Sjøgård Pettersen",
+      "image": "/6Wg9OBxrmySrzxMLKJgE6vZ2TBN.jpg"
+    },
+    {
+      "name": "Gard B. Eidsvold",
+      "image": "/j5uhW8VGldeEzE9KDcjX5rU7mqC.jpg"
+    },
+    {
+      "name": "Anneke von der Lippe",
+      "image": "/wAvLqJqsBAVMLanBTfvs4AJm5nL.jpg"
+    },
+    {
+      "name": "Fridtjov Såheim",
+      "image": "/clOaTXrlYeWP6BGtBu5R7EKby4G.jpg"
+    },
+    {
+      "name": "Dennis Storhøi",
+      "image": "/oKIPuT0L0jiXfqXIBRzpqrojsPv.jpg"
+    },
+    {
+      "name": "Karoline Viktoria Sletteng Garvang",
+      "image": "/lR5WUJ0wMPTJd0XwZxRnsPu0MHI.jpg"
+    },
+    {
+      "name": "Yusuf Toosh Ibra",
+      "image": "/8kMToToLRf03f1v8MqCPDhHtoNp.jpg"
+    },
+    {
+      "name": "Bjarne Hjelde",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa8"
+  },
+  "title": "Savage Salvation",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669939200000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Randall Emmett",
+  "backdrop_path": "/rodjjIJ8oh9nuBp86PhojcYHTEN.jpg",
+  "poster_path": "/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
+  "description": "Newly engaged Shelby John and Ruby Red want a fresh start after their struggles with addiction, but when Shelby discovers his beloved Ruby dead on their porch, he embarks on a vengeful killing spree of the dealers who supplied her. Armed with nothing but adrenaline and a nail gun, Shelby begins to unleash chaos on the town’s criminal underbelly, as he hunt’s down crime lord Coyote. Sheriff Church must race against the clock to put an end to Shelby's vigilante justice before the entire town descends into a bloodbath.",
+  "trailer": "SUqQKvTvhdY",
+  "cast": [
+    {
+      "name": "Jack Huston",
+      "image": "/s1lxyHBTpavcHMpeV03NTh7o6bd.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "image": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "John Malkovich",
+      "image": "/8YfVmWi9Z1iyX9Oc90yd9dbhSfL.jpg"
+    },
+    {
+      "name": "Willa Fitzgerald",
+      "image": "/l2xGZi2091DxdCSNEu9xbJ0XRYK.jpg"
+    },
+    {
+      "name": "Quavo",
+      "image": "/xnNpJvPluhit6LFxLEFlbZwHtoJ.jpg"
+    },
+    {
+      "name": "Meadow Williams",
+      "image": "/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg"
+    },
+    {
+      "name": "Swen Temmel",
+      "image": "/z6zLmf3PBsTGMU3RBnguAqfHUn3.jpg"
+    },
+    {
+      "name": "Noel Gugliemi",
+      "image": "/ndm0GtwFegozqIDb5qd376OJU3J.jpg"
+    },
+    {
+      "name": "Jonny Orsini",
+      "image": "/gBAcMKJY9xrwfjPbG9PvZ1l01KS.jpg"
+    },
+    {
+      "name": "Dale Dickey",
+      "image": "/588WXHw17JYi2rAqIVQXzgYENu3.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfa9"
+  },
+  "title": "High Heat",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1671148800000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Zach Golden",
+  "backdrop_path": "/mYQSbZdGX0JJb49NLO04UA0iFEU.jpg",
+  "poster_path": "/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg",
+  "description": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+  "trailer": "XZoDwdLJUK0",
+  "cast": [
+    {
+      "name": "Olga Kurylenko",
+      "image": "/q0QXFRg5bSnaLjbvhamfclt0eId.jpg"
+    },
+    {
+      "name": "Don Johnson",
+      "image": "/6s6oav541p7xspCG6PvXut7knkP.jpg"
+    },
+    {
+      "name": "Chris Diamantopoulos",
+      "image": "/rCp2ZVOFnQt2vvVn4QmOOPz5WVh.jpg"
+    },
+    {
+      "name": "Kaitlin Doubleday",
+      "image": "/bzFbsId1qrT59uEDAsffTLea9ni.jpg"
+    },
+    {
+      "name": "Page Falkinburg Jr.",
+      "image": "/ujP097zm7Y1VdNDnDrGnINtVQvO.jpg"
+    },
+    {
+      "name": "Dylan Flashner",
+      "image": "/nMDE5OFcc1cSioewYSlJDdbt9X7.jpg"
+    },
+    {
+      "name": "Bianca D'Ambrosio",
+      "image": "/60631OaoiQGk01bZ9NzMHGQ5ypi.jpg"
+    },
+    {
+      "name": "Erik Bloomquist",
+      "image": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfaa"
+  },
+  "title": "Avatar",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1260835200000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "James Cameron",
+  "backdrop_path": "/o0s4XsEDfDlvit5pDRKjzXR4pp2.jpg",
+  "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+  "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+  "trailer": "jm2sNLIPPvA",
+  "cast": [
+    {
+      "name": "Sam Worthington",
+      "image": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "image": "/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "image": "/flfhep27iBxseZIlxOMHt6zJFX1.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "image": "/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "image": "/jxSSvm0MwG7JVpKwRFL1a4mYiic.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "image": "/xJrjoGhAfufROCiG2C86uYYjqpP.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "image": "/pZQ4un6v0EANFMAiJYEaGRsCFWE.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "image": "/8IBLs1BkLZpOTVREt5yDusW1nim.jpg"
+    },
+    {
+      "name": "Wes Studi",
+      "image": "/hIi9rjpOR4az0oJfvlx0FnKSJLv.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "image": "/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfab"
+  },
+  "title": "The Big 4",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1671408000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Timo Tjahjanto",
+  "backdrop_path": "/ecaB1LUoQE1ylZJVF5KLRTkewt8.jpg",
+  "poster_path": "/jrw684BhFJZ9Jac6KJda3hSQkxt.jpg",
+  "description": "A by-the-book female detective teams up with four down-on-their-luck assassins to investigate her father's murder.",
+  "trailer": "sQQJEiESrK0",
+  "cast": [
+    {
+      "name": "Abimana Aryasatya",
+      "image": "/st21RUdZjvr33tp2XDWzCwLaCzp.jpg"
+    },
+    {
+      "name": "Putri Marino",
+      "image": "/2NXQ4fOQDWn53HAbGTJcvHRZ4li.jpg"
+    },
+    {
+      "name": "Lutesha",
+      "image": "/aSfXpXNbYlYh0tELg3kSK6BJPyl.jpg"
+    },
+    {
+      "name": "Arie Kriting",
+      "image": "/95EEQV0ULK1ezqcWfPo72Qo0dVL.jpg"
+    },
+    {
+      "name": "Kristo Immanuel",
+      "image": "/uuiU2aqKyW4V9j9G6dpcAgxVWTc.jpg"
+    },
+    {
+      "name": "Marthino Lio",
+      "image": "/ryEJo0p2W09GyiGfcvKeDTfjHCC.jpg"
+    },
+    {
+      "name": "Michelle Tahalea",
+      "image": "/l1zZHklX8DmlKBZjPD7uxKhWvpT.jpg"
+    },
+    {
+      "name": "Michael Kho",
+      "image": "/3xDZsij8mAj0QjSglJxh5h6f4ad.jpg"
+    },
+    {
+      "name": "Donny Damara",
+      "image": "/yba82o1poixDe9jK7o7LskbGyZo.jpg"
+    },
+    {
+      "name": "Budi Ros",
+      "image": "/tReAXuD3Q66s85FYxrlZFL7txmG.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfac"
+  },
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1133913600000"
+    }
+  },
+  "category": "Adventure",
+  "movieDirector": "Andrew Adamson",
+  "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+  "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+  "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+  "trailer": "3mKPrxjwF7A",
+  "cast": [
+    {
+      "name": "Skandar Keynes",
+      "image": "/pIdgY16c6AzmCD31pXlCR9SjLlM.jpg"
+    },
+    {
+      "name": "Georgie Henley",
+      "image": "/3G12GqaRzx4ovHYMELUAGwChOCx.jpg"
+    },
+    {
+      "name": "William Moseley",
+      "image": "/wPahfIdOR6ohIgmgVrCb3RPApAU.jpg"
+    },
+    {
+      "name": "Anna Popplewell",
+      "image": "/ooYeKc28Ayqo9KW8gOacDXDghVL.jpg"
+    },
+    {
+      "name": "Tilda Swinton",
+      "image": "/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+    },
+    {
+      "name": "James McAvoy",
+      "image": "/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "image": "/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "name": "Kiran Shah",
+      "image": "/cBE8YAZeCMVUu4eAxr6PNUmNjCh.jpg"
+    },
+    {
+      "name": "James Cosmo",
+      "image": "/uFyivAeeG3h8Gt5a99ACRC44vZL.jpg"
+    },
+    {
+      "name": "Judy McIntosh",
+      "image": "/3DTpQgpBW59OVPRdqr2B42TTzEy.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfad"
+  },
+  "title": "The Woman King",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Gina Prince-Bythewood",
+  "backdrop_path": "/7zQJYV02yehWrQN6NjKsBorqUUS.jpg",
+  "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+  "description": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+  "trailer": "3RDaPV_rJ1Y",
+  "cast": [
+    {
+      "name": "Thuso Mbedu",
+      "image": "/v2Fw1NlHZ1sPS97DG2aDnreZwLR.jpg"
+    },
+    {
+      "name": "Viola Davis",
+      "image": "/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+    },
+    {
+      "name": "Lashana Lynch",
+      "image": "/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+    },
+    {
+      "name": "John Boyega",
+      "image": "/Aso09k70hwBmO9pqMNUespCx0m2.jpg"
+    },
+    {
+      "name": "Sheila Atim",
+      "image": "/18aYPCThID2ZDemeMp8iAUuMVCX.jpg"
+    },
+    {
+      "name": "Jordan Bolger",
+      "image": "/zGSxXrllgm3MNVT0jjvnAQFacPS.jpg"
+    },
+    {
+      "name": "Hero Fiennes Tiffin",
+      "image": "/6zMrrZvOMH6uGwEFoK0Uo8sZvxL.jpg"
+    },
+    {
+      "name": "Jayme Lawson",
+      "image": "/rT6ZNBhYZaRMQ6dxCTillClDO4J.jpg"
+    },
+    {
+      "name": "Adrienne Warren",
+      "image": "/63mdRoeaM2svLAL1t2d6anwE1ZB.jpg"
+    },
+    {
+      "name": "Angélique Kidjo",
+      "image": "/lMEoZkXnBruEzpGrucMy2twyEQR.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfae"
+  },
+  "title": "Prey for the Devil",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666483200000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Daniel Stamm",
+  "backdrop_path": "/7dm64SW5L5CCg47kAEAcdCGaq5i.jpg",
+  "poster_path": "/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg",
+  "description": "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
+  "trailer": "OkEnG6inG4c",
+  "cast": [
+    {
+      "name": "Jacqueline Byers",
+      "image": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
+    },
+    {
+      "name": "Colin Salmon",
+      "image": "/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+      "name": "Christian Navarro",
+      "image": "/3GbOZdjoSVE2dkti9MKx44HidRi.jpg"
+    },
+    {
+      "name": "Lisa Palfrey",
+      "image": "/iwZrsJhsuiqep5zEyh4b7lhYTs5.jpg"
+    },
+    {
+      "name": "Nicholas Ralph",
+      "image": "/bGT39QpwMEbEoeBCPoVJYsfauvj.jpg"
+    },
+    {
+      "name": "Ben Cross",
+      "image": "/11gObExUG7lFCA7WeYgHabnZjDg.jpg"
+    },
+    {
+      "name": "Virginia Madsen",
+      "image": "/2u72BF7i189nAcX1kEJLjGMsb0c.jpg"
+    },
+    {
+      "name": "Tom Forbes",
+      "image": "/fuMUmFRoiYCDwzGriK1M5PKUfLU.jpg"
+    },
+    {
+      "name": "Velizar Binev",
+      "image": "/rPzsSUK5vRAwYpIVQjZM2NtVC63.jpg"
+    },
+    {
+      "name": "Owen Davis",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfaf"
+  },
+  "title": "Roald Dahl's Matilda the Musical",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669334400000"
+    }
+  },
+  "category": "Family",
+  "movieDirector": "Matthew Warchus",
+  "backdrop_path": "/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
+  "poster_path": "/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+  "description": "An extraordinary young girl discovers her superpower and summons the remarkable courage, against all odds, to help others change their stories, whilst also taking charge of her own destiny. Standing up for what's right, she's met with miraculous results.",
+  "trailer": "mEEMbNS6fzY",
+  "cast": [
+    {
+      "name": "Alisha Weir",
+      "image": "/7pSGDha5INbiFQilQRmWgiJX3z5.jpg"
+    },
+    {
+      "name": "Emma Thompson",
+      "image": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "name": "Lashana Lynch",
+      "image": "/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+    },
+    {
+      "name": "Stephen Graham",
+      "image": "/rkavERf9KK4Yvs8V4HWrTaUwoHX.jpg"
+    },
+    {
+      "name": "Andrea Riseborough",
+      "image": "/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+    },
+    {
+      "name": "Sindhu Vee",
+      "image": "/xDSGdKJ7UMZhcpau7TJgc0UpGDA.jpg"
+    },
+    {
+      "name": "Carl Spencer",
+      "image": "/otXVUm3I75F7x76p7xyStBUJrey.jpg"
+    },
+    {
+      "name": "Charlie Hodson-Prior",
+      "image": "/FuP3Mx4HH5cJsf3F6yNxQSfGAD.jpg"
+    },
+    {
+      "name": "Meesha Garbett",
+      "image": "/lpg0N0a7CF1QdD9BrEtCYLy1nVm.jpg"
+    },
+    {
+      "name": "Rei Yamauchi Fulker",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb0"
+  },
+  "title": "My Name Is Vendetta",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669766400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Cosimo Gomez",
+  "backdrop_path": "/edOt2jNyCbb8SQSvulD2sRRJhmA.jpg",
+  "poster_path": "/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+  "description": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+  "trailer": "mKRYPFKQdZg",
+  "cast": [
+    {
+      "name": "Alessandro Gassmann",
+      "image": "/3zss1TgmQZU0GSUGDGMbmfWS2e6.jpg"
+    },
+    {
+      "name": "Ginevra Francesconi",
+      "image": "/hAMzWT1vRd684Wp9jTG2VTlk9bg.jpg"
+    },
+    {
+      "name": "Remo Girone",
+      "image": "/gRS90yn20ZMlq4pvVQjtUM5DLqN.jpg"
+    },
+    {
+      "name": "Alessio Praticò",
+      "image": "/dKOx2OS3YWG3CAg5c7BGLINhxyj.jpg"
+    },
+    {
+      "name": "Francesco Villano",
+      "image": "/qe74ukxBBAr2OLoFhBMyz8B5RH8.jpg"
+    },
+    {
+      "name": "Gabriele Falsetta",
+      "image": "/kP0iEcjRg1liZOhrPOjo98SYfPM.jpg"
+    },
+    {
+      "name": "Marcello Mazzarella",
+      "image": "/dvzGSnElkOdTjc370mdt0Rn4tIY.jpg"
+    },
+    {
+      "name": "Mauro Lamanna",
+      "image": null
+    },
+    {
+      "name": "Sinja Dieks",
+      "image": "/7afbtfphveZFDOOk0Z6UjX4a025.jpg"
+    },
+    {
+      "name": "Luca Zamperoni",
+      "image": "/aeuRgUMKIxzV734H4zgOnqycmYK.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb1"
+  },
+  "title": "Strange World",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669161600000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Don Hall",
+  "backdrop_path": "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+  "poster_path": "/aBsZlk7npOMWbaUfVeMu7xCnoRx.jpg",
+  "description": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+  "trailer": "jP3Ea3sMiUE",
+  "cast": [
+    {
+      "name": "Jake Gyllenhaal",
+      "image": "/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "image": "/nvkto83iFngO8jg9UpdSaEBRC8a.jpg"
+    },
+    {
+      "name": "Jaboukie Young-White",
+      "image": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+    },
+    {
+      "name": "Gabrielle Union",
+      "image": "/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "image": "/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "Alan Tudyk",
+      "image": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "name": "Jonathan Melo",
+      "image": "/ngbzgpAQJ3x0LAENIUHsr4w29nD.jpg"
+    },
+    {
+      "name": "Abraham Benrubi",
+      "image": "/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg"
+    },
+    {
+      "name": "Karan Soni",
+      "image": "/s7jfz0OA9PeCEf1Te5b2heOia0b.jpg"
+    },
+    {
+      "name": "Adelina Anthony",
+      "image": "/8MQfvODOkrdxDCI2yCKtxRslJIl.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb2"
+  },
+  "title": "Black Panther: Wakanda Forever",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667952000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Ryan Coogler",
+  "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+  "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+  "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+  "trailer": "_Z3QKkl1WyM",
+  "cast": [
+    {
+      "name": "Letitia Wright",
+      "image": "/i6fbYNn5jWA6swWtaqgzaj02RMc.jpg"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "image": "/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg"
+    },
+    {
+      "name": "Danai Gurira",
+      "image": "/gjTMEc5bl5iA1aO9KweIQ1vcuWp.jpg"
+    },
+    {
+      "name": "Winston Duke",
+      "image": "/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    },
+    {
+      "name": "Dominique Thorne",
+      "image": "/tuLlp79SfYc4mLzzjdC2ekLI7qd.jpg"
+    },
+    {
+      "name": "Tenoch Huerta Mejía",
+      "image": "/5qoAmQpcPCjf4Pd6aTZOeINGYzk.jpg"
+    },
+    {
+      "name": "Angela Bassett",
+      "image": "/7Oz53NKdglRzAzI2MKjM3eQXwn.jpg"
+    },
+    {
+      "name": "Florence Kasumba",
+      "image": "/vivJLQhtwca5hupqoRRgL8BRs6o.jpg"
+    },
+    {
+      "name": "Michaela Coel",
+      "image": "/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+    },
+    {
+      "name": "Mabel Cadena",
+      "image": "/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb3"
+  },
+  "title": "Guillermo del Toro's Pinocchio",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667952000000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Guillermo del Toro",
+  "backdrop_path": "/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg",
+  "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+  "description": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+  "trailer": "Od2NW1sfRdA",
+  "cast": [
+    {
+      "name": "Gregory Mann",
+      "image": "/bGPUEFO6lCpxTvWn43fPSep4dtS.jpg"
+    },
+    {
+      "name": "Ewan McGregor",
+      "image": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+    },
+    {
+      "name": "David Bradley",
+      "image": "/znpkwHitb3pcaJbUmgDqG0YenYp.jpg"
+    },
+    {
+      "name": "Christoph Waltz",
+      "image": "/2Hhztd4mUEV9Y25rfkXDwzL9QI9.jpg"
+    },
+    {
+      "name": "Tilda Swinton",
+      "image": "/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+    },
+    {
+      "name": "Ron Perlman",
+      "image": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+    },
+    {
+      "name": "Finn Wolfhard",
+      "image": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+    },
+    {
+      "name": "Cate Blanchett",
+      "image": "/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "image": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+      "name": "John Turturro",
+      "image": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb4"
+  },
+  "title": "A Frozen Rooster",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1670976000000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Rodolfo Riva Palacio Alatriste",
+  "backdrop_path": "/qdFrqXYH6PtyAVlegub7bpoSgro.jpg",
+  "poster_path": "/gBBCBMXKzWRADtliUYfV69aVIcz.jpg",
+  "description": "The rooster Toto has a new enemy: a pirate who plans to turn him into a cryogenically frozen rooster.",
+  "trailer": "eHS_WYrK69Q",
+  "cast": [
+    {
+      "name": "Bruno Bichir",
+      "image": "/af6MbUchuOv9bPh080cF7Awqxi7.jpg"
+    },
+    {
+      "name": "Mauricio Castillo",
+      "image": "/8qoK3TeKhHcTt0HD0fq2iOibOsg.jpg"
+    },
+    {
+      "name": "Marcelo Barcelo",
+      "image": "/12yTJP8brpSpij4rLR7PxF4NFg4.jpg"
+    },
+    {
+      "name": "Miguel Rodarte",
+      "image": "/uEg6DB5dlukpfp0cpOheYR1ChpD.jpg"
+    },
+    {
+      "name": "Arath de la Torre",
+      "image": "/qB6D0UxHUDZFpzUm9kWfKugblau.jpg"
+    },
+    {
+      "name": "Angélica Vale",
+      "image": "/v7sqnNlV6dQmUjp1gI3ZeJLGOby.jpg"
+    },
+    {
+      "name": "Maite Perroni",
+      "image": "/ghbXlNZ4qEqVleKGGQ6mxanXr7x.jpg"
+    },
+    {
+      "name": "Carlos Espejel",
+      "image": "/d4MddC8jW6fHIazuA6vX31gOFHx.jpg"
+    },
+    {
+      "name": "Vadhir Derbez",
+      "image": "/bQkCBpWv8EKxAibLaXGBAIr66BY.jpg"
+    },
+    {
+      "name": "Dione Riva Palacio Santacruz",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb5"
+  },
+  "title": "Detective Knight: Rogue",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666310400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Edward Drake",
+  "backdrop_path": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+  "poster_path": "/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+  "description": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+  "trailer": "9pwnB3zLAFw",
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "image": "/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+    },
+    {
+      "name": "Beau Mirchoff",
+      "image": "/k6PpzPMgtU6VLb75sVqsJ4vv44K.jpg"
+    },
+    {
+      "name": "Lochlyn Munro",
+      "image": "/nTtzCBFYTEnYCS7CqUwxtC6OsXD.jpg"
+    },
+    {
+      "name": "Corey Large",
+      "image": "/a5fUescZlSJ8xbMdSk2BQ7a1onU.jpg"
+    },
+    {
+      "name": "Jimmy Jean-Louis",
+      "image": "/ostYdBK9KpJTQoJAO6kuJhmbOXe.jpg"
+    },
+    {
+      "name": "Michael Eklund",
+      "image": "/la3J6E12pbZHe0sE73EipKkzQOp.jpg"
+    },
+    {
+      "name": "Johnny Messner",
+      "image": "/1TL83UaGFeBg0Se3h9r066VcHjo.jpg"
+    },
+    {
+      "name": "Cody Kearsley",
+      "image": "/AsA8BYiRhrOVArqUFkYMQGumQr4.jpg"
+    },
+    {
+      "name": "Keeya King",
+      "image": "/f1HIq1eYoG2rpQIIj2pvLZLjo7E.jpg"
+    },
+    {
+      "name": "Dax Campbell",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb6"
+  },
+  "title": "R.I.P.D. 2: Rise of the Damned",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668470400000"
+    }
+  },
+  "category": "Fantasy",
+  "movieDirector": "Paul Leyden",
+  "backdrop_path": "/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg",
+  "poster_path": "/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+  "description": "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead.",
+  "trailer": "L_REOJnLLNI",
+  "cast": [
+    {
+      "name": "Jeffrey Donovan",
+      "image": "/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+    },
+    {
+      "name": "Penelope Mitchell",
+      "image": "/lGXfmQsOp0QWasXOG8hHHVhMbG6.jpg"
+    },
+    {
+      "name": "Richard Brake",
+      "image": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    },
+    {
+      "name": "Kerry Knuppe",
+      "image": "/fJGFRIcMiVyyxoSXs3zfBDjcjht.jpg"
+    },
+    {
+      "name": "Jake Choi",
+      "image": "/ftutoBlPWjWVjdT86wBZxLB13kU.jpg"
+    },
+    {
+      "name": "Richard Fleeshman",
+      "image": "/4g0jDx6OYk1lEuCFbETat3vfJOU.jpg"
+    },
+    {
+      "name": "Craige Els",
+      "image": "/8zvmwwRRTLn7lsZpRlJBAeK8l9a.jpg"
+    },
+    {
+      "name": "Tilly Keeper",
+      "image": "/oDC7wdKcupf7EKY6tF6s9rsCxYH.jpg"
+    },
+    {
+      "name": "Nóra Trokán",
+      "image": "/48mbaqR4krT8iylJ63nTXZA356r.jpg"
+    },
+    {
+      "name": "Stephanie Levi-John",
+      "image": "/bNZm4H77c5cNx8FmOhvDoeJSR0G.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb7"
+  },
+  "title": "M3GAN",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1672185600000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Gerard Johnstone",
+  "backdrop_path": "/dlxzUj7z1MqEcFiwvvrj0bvBKDY.jpg",
+  "poster_path": "/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg",
+  "description": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+  "trailer": "OoDHM_A1axc",
+  "cast": [
+    {
+      "name": "Allison Williams",
+      "image": "/yBolxMiZL1EjmNogPzTAuT85qad.jpg"
+    },
+    {
+      "name": "Violet McGraw",
+      "image": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg"
+    },
+    {
+      "name": "Jenna Davis",
+      "image": "/mdGNqspZzjZd26Wn0tyQPWI0RIz.jpg"
+    },
+    {
+      "name": "Amie Donald",
+      "image": "/rYMbQYfL0GHQHWywmiBBHcdqSvy.jpg"
+    },
+    {
+      "name": "Jen Van Epps",
+      "image": "/pI18BVf1c6frUMoXj2bV82NEiLE.jpg"
+    },
+    {
+      "name": "Brian Jordan Alvarez",
+      "image": "/r1NbU9emAPliJn7s2izZBBivwTX.jpg"
+    },
+    {
+      "name": "Ronny Chieng",
+      "image": "/nn1y0te102CvakOJ0rSJ7rYPLDF.jpg"
+    },
+    {
+      "name": "Stephane Garneau-Monten",
+      "image": "/9wIbVsGkKeW0aSVwqxMD6nUFFeq.jpg"
+    },
+    {
+      "name": "Michael Saccente",
+      "image": "/iSOWUE2HzsR4KHBqzkRcvDkgb5H.jpg"
+    },
+    {
+      "name": "Arlo Green",
+      "image": "/aatfD87oUz8RlLIBLlRhNapB0XL.jpg"
+    }
+  ],
+  "rating": [
+    {
+      "rating": 0,
+      "commentTitle": "",
+      "commentContent": "",
+      "userId": "2",
+      "_id": {
+        "$oid": "63effb7852f4bdb52a8b823c"
+      }
+    },
+    {
+      "rating": 1,
+      "commentTitle": "hello",
+      "commentContent": "there",
+      "userId": "2",
+      "_id": {
+        "$oid": "63effd1352f4bdb52a8b91de"
+      }
+    }
+  ],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1676672275642"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb8"
+  },
+  "title": "Hex",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667260800000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Chris Johnston",
+  "backdrop_path": "/90ZZIoWQLLEXSVm0ik3eEQBinul.jpg",
+  "poster_path": "/xFJHb43ZAnnuiDztxZYsmyopweb.jpg",
+  "description": "Following a mysterious disappearance on a jump, a group of skydivers experiences paranormal occurrences that leave them fighting for their lives.",
+  "trailer": "FJsEtCV2dMM",
+  "cast": [
+    {
+      "name": "Kayla Adams",
+      "image": "/9tJgQD3sACc7WLaXcdZP0Bb3HCE.jpg"
+    },
+    {
+      "name": "Matthew Holcomb",
+      "image": null
+    },
+    {
+      "name": "Bryan David Roberts",
+      "image": null
+    },
+    {
+      "name": "Chloe Berman",
+      "image": "/gJLAP1tbNpotBM1b0p5ugZiQIas.jpg"
+    },
+    {
+      "name": "Brad Worch II",
+      "image": "/AaA4YYiilJuvZl5J4EbI603n8pQ.jpg"
+    },
+    {
+      "name": "Eric Alperin",
+      "image": "/xQBGuK3rLE5xgqLzxiQ3CHebzWI.jpg"
+    },
+    {
+      "name": "Cody Renee Cameron",
+      "image": "/wJBmJEPiFGjtEewEiwPMsz44DZh.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfb9"
+  },
+  "title": "One Way",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1662076800000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Andrew Baird",
+  "backdrop_path": "/vmDa8HijINCAFYKqsMz0YM3sVyE.jpg",
+  "poster_path": "/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg",
+  "description": "On the run with a bag full of cash after a robbing his former crime boss—and a potentially fatal wound—Freddy slips onto a bus headed into the unrelenting California desert. With his life slipping through his fingers, Freddy is left with very few choices to survive.",
+  "trailer": "ExEl3sjAz8s",
+  "cast": [
+    {
+      "name": "Machine Gun Kelly",
+      "image": "/astSdaQqoYyI4p694WEllO6q3aN.jpg"
+    },
+    {
+      "name": "Storm Reid",
+      "image": "/wA8cntFil1AuwusEZXLH9o898m1.jpg"
+    },
+    {
+      "name": "Drea de Matteo",
+      "image": "/kRr4XnvKGBYW0aVejQzpZiosOmo.jpg"
+    },
+    {
+      "name": "Travis Fimmel",
+      "image": "/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg"
+    },
+    {
+      "name": "Kevin Bacon",
+      "image": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "name": "Luis Da Silva Jr.",
+      "image": "/ajavEvDuNcinuw3BJ80OE0sEU5Q.jpg"
+    },
+    {
+      "name": "Meagan Holder",
+      "image": "/ab033IJGN5R3eLZ5J2YFakDEtQ5.jpg"
+    },
+    {
+      "name": "Rhys Coiro",
+      "image": "/pjPbrZHU0kJUiMOPYfxK8FeBwWQ.jpg"
+    },
+    {
+      "name": "Kendall Dugan",
+      "image": null
+    },
+    {
+      "name": "Danny Bohnen",
+      "image": "/a2jyjvvmNldPoCjShgEURhdii2o.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfba"
+  },
+  "title": "Fall",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1660176000000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Scott Mann",
+  "backdrop_path": "/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+  "poster_path": "/v28T5F1IygM8vXWZIycfNEm3xcL.jpg",
+  "description": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+  "trailer": "FNk7Cu4sJOs",
+  "cast": [
+    {
+      "name": "Grace Caroline Currey",
+      "image": "/fhwQWWTwl8r613puGYKMyf9H8mQ.jpg"
+    },
+    {
+      "name": "Virginia Gardner",
+      "image": "/1DnNysK267b0te48KCkUlTKoTzj.jpg"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "image": "/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "name": "Mason Gooding",
+      "image": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+      "name": "Jasper Cole",
+      "image": "/18mmNj8eKPn9a1n3G0yvy650Bd8.jpg"
+    },
+    {
+      "name": "Darrell Dennis",
+      "image": "/2jOo4B5Nn9oGuzgx1UfoQs0MMCj.jpg"
+    },
+    {
+      "name": "Julia Pace Mitchell",
+      "image": "/6iavMrm8BhUJiGpZDSKmfGKgpK6.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfbb"
+  },
+  "title": "The Boss Baby: Christmas Bonus",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1670284800000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Matt Engstrom",
+  "backdrop_path": "/2T92w8l2iTnyG9jwOmIWfM9thRV.jpg",
+  "poster_path": "/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+  "description": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+  "trailer": "Xemiea7TCzI",
+  "cast": [
+    {
+      "name": "JP Karliak",
+      "image": "/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg"
+    },
+    {
+      "name": "Pierce Gagnon",
+      "image": "/2jYw7E4WmiRiGSwdHVOwAEyweTr.jpg"
+    },
+    {
+      "name": "Amaryllis Aubel",
+      "image": null
+    },
+    {
+      "name": "Jodi Benson",
+      "image": "/2qX8QKHCaFWnCcIhb3VgZeX9HPz.jpg"
+    },
+    {
+      "name": "Alex Cazares",
+      "image": null
+    },
+    {
+      "name": "Kalen Chase",
+      "image": null
+    },
+    {
+      "name": "Ray Chase",
+      "image": "/xeJKJnvIwItI90roo7mMUduBbbq.jpg"
+    },
+    {
+      "name": "David W. Collins",
+      "image": "/182mEyrOZuiv18XcwA1MjxEFgrr.jpg"
+    },
+    {
+      "name": "Dana Davis",
+      "image": "/jsMOVi4z2E2kvLS0j3Paxd0NJsk.jpg"
+    },
+    {
+      "name": "Charles Dewayne",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfbc"
+  },
+  "title": "Disenchanted",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668729600000"
+    }
+  },
+  "category": "Comedy",
+  "movieDirector": "Adam Shankman",
+  "backdrop_path": "/kpUre8wWSXn3D5RhrMttBZa6w1v.jpg",
+  "poster_path": "/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg",
+  "description": "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn’t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.",
+  "trailer": "DY63dfyn7HQ",
+  "cast": [
+    {
+      "name": "Amy Adams",
+      "image": "/bp7PLjL2fHVuLRFsw6ccpGrGjrA.jpg"
+    },
+    {
+      "name": "Patrick Dempsey",
+      "image": "/eHNUaEyNBVuCSxJjPQIgH0keYru.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "image": "/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+    },
+    {
+      "name": "Gabriella Baldacchino",
+      "image": null
+    },
+    {
+      "name": "James Marsden",
+      "image": "/mk142GG0saiSXALY6V4wWcmPROW.jpg"
+    },
+    {
+      "name": "Idina Menzel",
+      "image": "/l2N0xOzHqZ75bKXBCciKwBdwxcN.jpg"
+    },
+    {
+      "name": "Yvette Nicole Brown",
+      "image": "/tKCNqEQPynScG384Oj80vL6aDQQ.jpg"
+    },
+    {
+      "name": "Jayma Mays",
+      "image": "/n8tY5eVXje0vXTws66YAdEeHMy5.jpg"
+    },
+    {
+      "name": "Kolton Stewart",
+      "image": "/7Q5zboTy8OozcJdYFwWbDrKCR1.jpg"
+    },
+    {
+      "name": "Oscar Nunez",
+      "image": "/UBILHiRphJdlshvsyH920QSAhk.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfbd"
+  },
+  "title": "Terrifier 2",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1665014400000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Damien Leone",
+  "backdrop_path": "/2Ft4xmWa1Edgj2P1OYmoSAoYRqz.jpg",
+  "poster_path": "/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+  "description": "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night.  As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+  "trailer": "x5DhuDSArTI",
+  "cast": [
+    {
+      "name": "Lauren LaVera",
+      "image": "/wrVoBR5YhdEcadqwPICkcXXTbWk.jpg"
+    },
+    {
+      "name": "David Howard Thornton",
+      "image": "/9nYijs4ACzjg93zKezLiLmuRGvp.jpg"
+    },
+    {
+      "name": "Elliott Fullam",
+      "image": "/dNsFLihmWfA2KCENbZCtq9AjSob.jpg"
+    },
+    {
+      "name": "Sarah Voigt",
+      "image": null
+    },
+    {
+      "name": "Kailey Hyman",
+      "image": null
+    },
+    {
+      "name": "Casey Hartnett",
+      "image": "/jR87afncFCLivW82l2tlk3CkY5Y.jpg"
+    },
+    {
+      "name": "Charlie McElveen",
+      "image": "/rxUa628mOE5XSsAHzAGO5bqw8oU.jpg"
+    },
+    {
+      "name": "Amelie McLain",
+      "image": null
+    },
+    {
+      "name": "Johnath Davis",
+      "image": null
+    },
+    {
+      "name": "Samantha Scaffidi",
+      "image": "/jwd0XXuc4ibXAXjOxmhsFP0fQEO.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfbe"
+  },
+  "title": "Monstrous",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1652400000000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Chris Sivertson",
+  "backdrop_path": "/591Cjf3DWGAcJbQYdHmRS7fHH3z.jpg",
+  "poster_path": "/ec3aX4DyjepEhPkpIUukaBxKpN3.jpg",
+  "description": "Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…",
+  "trailer": "4bRnHRf6zv4",
+  "cast": [
+    {
+      "name": "Christina Ricci",
+      "image": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "name": "Santino Barnard",
+      "image": "/2xX8V6CATPDUMvPReZHVpvUMGn3.jpg"
+    },
+    {
+      "name": "Don Baldaramos",
+      "image": "/wqHTx3pNOKOTz2hsejnuW4XIIW1.jpg"
+    },
+    {
+      "name": "Colleen Camp",
+      "image": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "name": "Lew Temple",
+      "image": "/s8FXAUqIclO4ndI9BsLavrxqQup.jpg"
+    },
+    {
+      "name": "Carol Anne Watts",
+      "image": "/wgNEIRpOAJGL4GlMypxpZwRpiWp.jpg"
+    },
+    {
+      "name": "Peter Hodge",
+      "image": null
+    },
+    {
+      "name": "Nick Vallelonga",
+      "image": "/h0GwAHN1J5lDysqgWxMIg66LNBW.jpg"
+    },
+    {
+      "name": "Sally Elbert",
+      "image": null
+    },
+    {
+      "name": "Rachael Edlow",
+      "image": "/cKRWY6sXInKauoIynlnlbCTPSxy.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfbf"
+  },
+  "title": "Smile",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1663891200000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Parker Finn",
+  "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+  "poster_path": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+  "description": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+  "trailer": "-8d987Wtkxs",
+  "cast": [
+    {
+      "name": "Sosie Bacon",
+      "image": "/pDvjTHGv8NhBkbIcBJFGt9zDw8.jpg"
+    },
+    {
+      "name": "Kyle Gallner",
+      "image": "/v7wfYXfakHyeNudiATORtlQ6mny.jpg"
+    },
+    {
+      "name": "Caitlin Stasey",
+      "image": "/8Cxs1enzkEsvIlfBaiuadsNTX8J.jpg"
+    },
+    {
+      "name": "Jessie T. Usher",
+      "image": "/iiu9dkYEkHJPMf7TzbrhhgwRvlt.jpg"
+    },
+    {
+      "name": "Kal Penn",
+      "image": "/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    },
+    {
+      "name": "Rob Morgan",
+      "image": "/yIQd0L0kn1HyZGeEMkUREzMslP0.jpg"
+    },
+    {
+      "name": "Robin Weigert",
+      "image": "/ifGimfhXs7WIyDJMIX8kJtUte88.jpg"
+    },
+    {
+      "name": "Judy Reyes",
+      "image": "/zKcbJWitVsDOFJuXgnf5cldEYIq.jpg"
+    },
+    {
+      "name": "Gillian Zinser",
+      "image": "/peEd36FXGBmUQup5n0qEsb28vvS.jpg"
+    },
+    {
+      "name": "Meghan Brown Pratt",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc0"
+  },
+  "title": "Sniper: The White Raven",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1651536000000"
+    }
+  },
+  "category": "War",
+  "movieDirector": "Marian Bushan",
+  "backdrop_path": "/yNib9QAiyaopUJbaayKQ2xK7mYf.jpg",
+  "poster_path": "/lZOODJzwuQo0etJJyBBZJOSdZcW.jpg",
+  "description": "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges “sniper terror” for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a “scar” and Mykola is ready to sacrifice his life.",
+  "trailer": "cZIhRHSXtyU",
+  "cast": [
+    {
+      "name": "Pavlo Aldoshyn",
+      "image": "/Vi4YZuPX6oFVNeaugZ8YalOFSg.jpg"
+    },
+    {
+      "name": "Maryna Koshkina",
+      "image": "/eLPvR0xFkOOKtVjL7UWD6sFs5dF.jpg"
+    },
+    {
+      "name": "Andrei Mostrenko",
+      "image": "/ovCSFuWwBqgb42uPOxxbIaKttce.jpg"
+    },
+    {
+      "name": "Roman Semysal",
+      "image": null
+    },
+    {
+      "name": "Roman Yasinovskyi",
+      "image": "/oNGKZ1TJypBbXQjUmSC7ycOU4PF.jpg"
+    },
+    {
+      "name": "Oleh Shulha",
+      "image": "/inCAXCrKoEBJgl1sNgXtxg1fMo2.jpg"
+    },
+    {
+      "name": "Yehor Kozlov",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc1"
+  },
+  "title": "Night at the Museum: Kahmunrah Rises Again",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1670544000000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Matt Danner",
+  "backdrop_path": "/6rax7iv5yQtldc3ApEvrheJf8uw.jpg",
+  "poster_path": "/mkRQn520JQD07BNP03NK3iKCaPD.jpg",
+  "description": "Nick Daley is following in his father's footsteps as night watchman at the American Museum of Natural History, so he knows what happens when the sun goes down. But when the maniacal ruler Kahmunrah escapes, it is up to Nick to save the museum once and for all.",
+  "trailer": "tP3tGkvd18U",
+  "cast": [
+    {
+      "name": "Joshua Bassett",
+      "image": "/yWZFAlOUmQiQqgOH5N4wgzLaH4b.jpg"
+    },
+    {
+      "name": "Thomas Lennon",
+      "image": "/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg"
+    },
+    {
+      "name": "Joseph Kamal",
+      "image": "/ivItYjDnzRuT8zg3WPFg2lOTlPZ.jpg"
+    },
+    {
+      "name": "Akmal Saleh",
+      "image": "/g84eDVgoS63qiHoviWLbyG5Pxt9.jpg"
+    },
+    {
+      "name": "Steve Zahn",
+      "image": "/x66YoGbB8LUORUa8oDoJmI4ko3q.jpg"
+    },
+    {
+      "name": "Jack Whitehall",
+      "image": "/qBHLpjH3Dad9ZoZsrcMplIPwkHC.jpg"
+    },
+    {
+      "name": "Kieran Sequoia",
+      "image": null
+    },
+    {
+      "name": "Alice Isaaz",
+      "image": "/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
+    },
+    {
+      "name": "Jamie Demetriou",
+      "image": "/owXXYV1MNijRAVJV2Q47WEWT9Wv.jpg"
+    },
+    {
+      "name": "Zachary Levi",
+      "image": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc2"
+  },
+  "title": "The Minute You Wake Up Dead",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667520000000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Michael Mailer",
+  "backdrop_path": "/sP1ShE4BGLkHSRqG9ZeGHg6C76t.jpg",
+  "poster_path": "/pUPwTbnAqfm95BZjNBnMMf39ChT.jpg",
+  "description": "A stockbroker in a small southern town gets embroiled in an insurance scam with a next-door neighbor that leads to multiple murders when a host of other people want in on the plot. Sheriff Thurmond Fowler, the by-the-book town sheriff for over four decades, works earnestly to try and unravel the town’s mystery and winds up getting more than he bargained for.",
+  "trailer": "Pc4keE4fXv4",
+  "cast": [
+    {
+      "name": "Cole Hauser",
+      "image": "/kJyUtNZREd7mes21OrWiCtOugPL.jpg"
+    },
+    {
+      "name": "Jaimie Alexander",
+      "image": "/j3DZpaJJzgfNm3TAqhHKtFEQu01.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "image": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "name": "Darren Mann",
+      "image": "/jy660w9HAkjcvDQn274N80RUW2Q.jpg"
+    },
+    {
+      "name": "Andrew Stevens",
+      "image": "/6j3lBX2klVHVfZg5fMJfpxEyc7z.jpg"
+    },
+    {
+      "name": "Kenneth Farmer",
+      "image": "/pFzuLrJ6qjSwgmHqT3RkTkql5bM.jpg"
+    },
+    {
+      "name": "Ben VanderMey",
+      "image": "/lkPNTxvIiV0WtBVOV8DbLiCSp0c.jpg"
+    },
+    {
+      "name": "Tony DeMil",
+      "image": "/kPaGrvNQ5DtUOlUBOgPOB8sHEjN.jpg"
+    },
+    {
+      "name": "Liann Pattison",
+      "image": null
+    },
+    {
+      "name": "John Dylan Atkins",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc3"
+  },
+  "title": "Blowback",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1655424000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Tibor Takács",
+  "backdrop_path": "/5aSvzECXrtABcIh7fZYkH2K6ttC.jpg",
+  "poster_path": "/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
+  "description": "When a master thief is sabotaged during a bank heist and left for dead, he seeks revenge on his former crew one target at a time. Now, with the cops and the mob closing in, he's in the race of his life to reclaim an untold fortune in cryptocurrency from those who double-crossed him.",
+  "trailer": "w8kMR0-e_p8",
+  "cast": [
+    {
+      "name": "Randy Couture",
+      "image": "/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+    },
+    {
+      "name": "Cam Gigandet",
+      "image": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+    },
+    {
+      "name": "Michele Plaia",
+      "image": "/3fKzzB20JqnK5OXUd3yN3sQME5k.jpg"
+    },
+    {
+      "name": "Louis Mandylor",
+      "image": "/tnNxkjimfJQ6rY87Ryr5R72KMRH.jpg"
+    },
+    {
+      "name": "William McNamara",
+      "image": "/hVOdM3UUmJqpREnBxzm0J4j0b5R.jpg"
+    },
+    {
+      "name": "Chris Maher",
+      "image": "/k2edSlrLvPGFcX4ZvYO2cauFcTA.jpg"
+    },
+    {
+      "name": "Rafael Cabrera",
+      "image": "/ge1iUNhwqAzUDGNjyYnCOXjDRTH.jpg"
+    },
+    {
+      "name": "Benjamin Abiola",
+      "image": "/i5C7sFQ2y1BmcwKhSoxTiXKy0Li.jpg"
+    },
+    {
+      "name": "Peter Nikkos",
+      "image": "/89MnR5g7uEfYsdOupbuQD7QS2yF.jpg"
+    },
+    {
+      "name": "Texas Battle",
+      "image": "/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc4"
+  },
+  "title": "Abandoned",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1655424000000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Spencer Squire",
+  "backdrop_path": "/rXFe9rYsq4j1zEiOivJoUfdWsuR.jpg",
+  "poster_path": "/9im8JhelZGDbDpXTigJbjMQqy3S.jpg",
+  "description": "After a young couple moves into a remote farmhouse with their infant son, the woman's struggles with postpartum psychosis begin to intensify... as the house reveals secrets of its own.",
+  "trailer": "rNON4M0Sr6Y",
+  "cast": [
+    {
+      "name": "Emma Roberts",
+      "image": "/87w6fTvmJTQScgKKJFS91hYJ33a.jpg"
+    },
+    {
+      "name": "John Gallagher Jr.",
+      "image": "/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
+    },
+    {
+      "name": "Michael Shannon",
+      "image": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "name": "Kate Arrington",
+      "image": "/nXg0UQsYjGCSV25hZ8GuY08Q2BD.jpg"
+    },
+    {
+      "name": "Marie May",
+      "image": null
+    },
+    {
+      "name": "Addy Miller",
+      "image": "/45FK0Y8bbR7EexAdw1vwBzDD3QK.jpg"
+    },
+    {
+      "name": "Paul Dillon",
+      "image": "/tnCzILAe8EBBjPwADXUrzs9ESzD.jpg"
+    },
+    {
+      "name": "Justin Matthew Smith",
+      "image": "/kJ0PvqWuhpuH35SlGlrUfwYwqg8.jpg"
+    },
+    {
+      "name": "Paul Schneider",
+      "image": "/69tLX644rRr1RT9gxajsWlNrf0Y.jpg"
+    },
+    {
+      "name": "Christian Michael Pates",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc5"
+  },
+  "title": "Alien Sniperess",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1649376000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Joseph Mbah",
+  "backdrop_path": "/3RJ0B8JnwuOaQf6qmwTILXibcJj.jpg",
+  "poster_path": "/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg",
+  "description": "A female sniper on military leave promises to fulfill her fiancé’s dying wish until she encounters a hostile alien invasion and is tasked with saving countless lives.",
+  "trailer": "PM3hC08nsq0",
+  "cast": [
+    {
+      "name": "Olivia Okoro",
+      "image": null
+    },
+    {
+      "name": "Sean Laguna",
+      "image": null
+    },
+    {
+      "name": "Douglas Savage",
+      "image": null
+    },
+    {
+      "name": "Bourke Floyd",
+      "image": null
+    },
+    {
+      "name": "Sean J. Dillingham",
+      "image": "/quqA6H7UwuKc9h9kfKmAGou1247.jpg"
+    },
+    {
+      "name": "Mark Speno",
+      "image": "/bYldHHZ2dAxMhTBkZJHYStFIcKv.jpg"
+    },
+    {
+      "name": "Alaina Laethem",
+      "image": null
+    },
+    {
+      "name": "Camille Kerber",
+      "image": null
+    },
+    {
+      "name": "Dan Weisgerber",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc6"
+  },
+  "title": "Emancipation",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669939200000"
+    }
+  },
+  "category": "History",
+  "movieDirector": "Antoine Fuqua",
+  "backdrop_path": "/ypFD4TJ3nLJesou76V59CnweaT0.jpg",
+  "poster_path": "/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
+  "description": "Inspired by the gripping true story of a man who would do anything for his family—and for freedom. When Peter, an enslaved man, risks his life to escape and return to his family, he embarks on a perilous journey of love and endurance.",
+  "trailer": "C3yHUpR7yv8",
+  "cast": [
+    {
+      "name": "Will Smith",
+      "image": "/rqqhzESgnlxREv7Q8ZtjqBZtSry.jpg"
+    },
+    {
+      "name": "Ben Foster",
+      "image": "/4le1PMWTGp7y2IBmZEIOHfE3HAB.jpg"
+    },
+    {
+      "name": "Charmaine Bingwa",
+      "image": "/tKTgyR66HhUJ2fFjKembLh1SUIr.jpg"
+    },
+    {
+      "name": "Steven Ogg",
+      "image": "/n5htiKL3WLNzJOZCLc4NytWV6fY.jpg"
+    },
+    {
+      "name": "Gilbert Owuor",
+      "image": "/xeq23Py9DnepRYcZfsuCJBvJyD2.jpg"
+    },
+    {
+      "name": "Mustafa Shakir",
+      "image": "/eeBtCxmlmHguKbeUr2Usx2Jdnj9.jpg"
+    },
+    {
+      "name": "Grant Harvey",
+      "image": "/sThJJbhgjQOZNvCkHVO0g3qy78j.jpg"
+    },
+    {
+      "name": "Ronnie Gene Blevins",
+      "image": "/28O4ALimfSVQgMOvkstDJpzHKDc.jpg"
+    },
+    {
+      "name": "Jayson Warner Smith",
+      "image": "/ilGnY7Alf1WG5yBi2IHvnlI40At.jpg"
+    },
+    {
+      "name": "Jabbar Lewis",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc7"
+  },
+  "title": "Pinocchio",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "category": "Fantasy",
+  "movieDirector": "Robert Zemeckis",
+  "backdrop_path": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+  "poster_path": "/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg",
+  "description": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+  "trailer": "gV_0pYoCssc",
+  "cast": [
+    {
+      "name": "Benjamin Evan Ainsworth",
+      "image": "/qElUQYuKtV4oRmH5yTmg1Seh1Iq.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "image": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "image": "/dhv9f3AaozOjpvjAwVzOWlmmT2V.jpg"
+    },
+    {
+      "name": "Luke Evans",
+      "image": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+    },
+    {
+      "name": "Cynthia Erivo",
+      "image": "/vWLhplaio80fuv5mACLImjstg2v.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "image": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "image": "/cmVcc09jfmoOqGLY595aBQu3IsP.jpg"
+    },
+    {
+      "name": "Kyanne Lamaya",
+      "image": "/g4CYmaId24wXdTMccsMEsSsa8Jc.jpg"
+    },
+    {
+      "name": "Angus Wright",
+      "image": "/7VOW55b8WF0eyFJiCjiBXSRA5mG.jpg"
+    },
+    {
+      "name": "Jamie Demetriou",
+      "image": "/owXXYV1MNijRAVJV2Q47WEWT9Wv.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc8"
+  },
+  "title": "Dangerous Game: The Legacy Murders",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666310400000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Sean McNamara",
+  "backdrop_path": "/8opAdpzff0GJH1rstHVpG7dUX4.jpg",
+  "poster_path": "/1Dlj0TbLNtGHq42HE0fLnawtyyD.jpg",
+  "description": "A family reunion at a remote mansion takes a lethal turn when they are trapped inside and forced to play a deadly survival game where only one will make it out alive.",
+  "trailer": "6303iTtM-mk",
+  "cast": [
+    {
+      "name": "Jonathan Rhys Meyers",
+      "image": "/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+    },
+    {
+      "name": "Will Sasso",
+      "image": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "image": "/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+    },
+    {
+      "name": "Laura Mennell",
+      "image": "/onIPcCc3swg2q2k2vRcNtqYdwaQ.jpg"
+    },
+    {
+      "name": "Megan Charpentier",
+      "image": "/zwhNKXaYRU6FC4PaFe53jhWp52R.jpg"
+    },
+    {
+      "name": "Kaya Coleman",
+      "image": null
+    },
+    {
+      "name": "Skyler Shaye",
+      "image": "/mAQIT8r4YmDk8UnNVT7PZrCTS9F.jpg"
+    },
+    {
+      "name": "Dylan Playfair",
+      "image": "/iWkup8QYwyEYM4Dvi7x1OHHNR6G.jpg"
+    },
+    {
+      "name": "Bradley Stryker",
+      "image": "/3h0F6HRz4He5ESx9mIIIGV90MF2.jpg"
+    },
+    {
+      "name": "Barbara Beall",
+      "image": "/bFpshs6xHVoBIy35X3QLCYfjNWd.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfc9"
+  },
+  "title": "Lyle, Lyle, Crocodile",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1665100800000"
+    }
+  },
+  "category": "Comedy",
+  "movieDirector": "Josh Gordon",
+  "backdrop_path": "/c1bz69r0v065TGFA5nqBiKzPDys.jpg",
+  "poster_path": "/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg",
+  "description": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
+  "trailer": "s0W6O7mSlaU",
+  "cast": [
+    {
+      "name": "Javier Bardem",
+      "image": "/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+    },
+    {
+      "name": "Winslow Fegley",
+      "image": "/fx72xnTrHYLsFA3CUlDbwojH8G7.jpg"
+    },
+    {
+      "name": "Shawn Mendes",
+      "image": "/pb6T6FNi5qI4i9bKSzBaHGIW7Tn.jpg"
+    },
+    {
+      "name": "Constance Wu",
+      "image": "/7nT6QsetU2RCUwopPmq2NFSnLDL.jpg"
+    },
+    {
+      "name": "Scoot McNairy",
+      "image": "/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+    },
+    {
+      "name": "Brett Gelman",
+      "image": "/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg"
+    },
+    {
+      "name": "Ego Nwodim",
+      "image": "/1vpud1BpXvbJUy0OO3B8Vl24nlp.jpg"
+    },
+    {
+      "name": "Lyric Hurd",
+      "image": "/1f1YpN00QRXqNLa5E7PFSZGYg9c.jpg"
+    },
+    {
+      "name": "Jason Kravits",
+      "image": "/cJR2IntcqNtpMU7iqiHBUAHx6HA.jpg"
+    },
+    {
+      "name": "Ben Palacios",
+      "image": "/pQMoTaKibVohssp9E0P04ZyNq57.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfca"
+  },
+  "title": "Jeepers Creepers: Reborn",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Timo Vuorensola",
+  "backdrop_path": "/tIX6j3NzadlwGcJ52nuWdmtOQkg.jpg",
+  "poster_path": "/qVVegwPsW6n9unBtLWq1rzOutka.jpg",
+  "description": "Forced to travel with her boyfriend to a horror festival, Laine begins to experience disturbing visions associated with the urban legend of The Creeper. As the festival arrives and the blood-soaked entertainment builds to a frenzy, she becomes the center of it while something unearthly has been summoned.",
+  "trailer": "eNH2bRZ6gJw",
+  "cast": [
+    {
+      "name": "Sydney Craven",
+      "image": "/zt0pdMqP5VfJc7Fp2ijh4Evxe0m.jpg"
+    },
+    {
+      "name": "Imran Adams",
+      "image": "/rMur2CMkMWndIfP4k6c1Jt1wXLU.jpg"
+    },
+    {
+      "name": "Jarreau Benjamin",
+      "image": "/jugGpoY0ecVwCSN0V2vGWQcGvWU.jpg"
+    },
+    {
+      "name": "Matt Barkley",
+      "image": "/k1xY3jyYCf24NItpLSnrT01AjgU.jpg"
+    },
+    {
+      "name": "Peter Brooke",
+      "image": "/5fRrmo1Xi9IkiVyypMgOPgZq5ed.jpg"
+    },
+    {
+      "name": "Ocean Navarro",
+      "image": "/8ZnKpldfwh4vJxC4E0ysIbWxgr.jpg"
+    },
+    {
+      "name": "Gary Graham",
+      "image": "/uu3S6uK3mlRyjsabMg1NADuV0Vw.jpg"
+    },
+    {
+      "name": "Gabriel Freilich",
+      "image": "/7rMS0OJtcSPdBx1Dmgvd7eQYumb.jpg"
+    },
+    {
+      "name": "Terry Bird",
+      "image": null
+    },
+    {
+      "name": "Georgia Goodman",
+      "image": "/igrVZq0JVIkFW1TbgaOG9ESd9pR.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfcb"
+  },
+  "title": "Spider-Man: No Way Home",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1639526400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "David H. Venghaus Jr.",
+  "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+  "poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+  "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "trailer": "1mTjfMFyPi8",
+  "cast": [
+    {
+      "name": "Tom Holland",
+      "image": "/bBRlrpJm9XkNSg0YT5LCaxqoFMX.jpg"
+    },
+    {
+      "name": "Zendaya",
+      "image": "/xWOU0S7AqGEkyk8scLwwz66R2GO.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "image": "/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+    },
+    {
+      "name": "Jacob Batalon",
+      "image": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "image": "/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Jamie Foxx",
+      "image": "/hPwCMEq6jLAidsXAX5BfoYgIfg2.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "image": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "image": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "image": "/ukmfsl59Isvn9odgzMWBidA3cmt.jpg"
+    },
+    {
+      "name": "Tony Revolori",
+      "image": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfcc"
+  },
+  "title": "All Quiet on the Western Front",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1665100800000"
+    }
+  },
+  "category": "War",
+  "movieDirector": "Edward Berger",
+  "backdrop_path": "/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+  "poster_path": "/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+  "description": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+  "trailer": "hf8EYbVxtCY",
+  "cast": [
+    {
+      "name": "Felix Kammerer",
+      "image": "/T12faHW0QXunSZbv6YNmDWG7bC.jpg"
+    },
+    {
+      "name": "Albrecht Schuch",
+      "image": "/bYqsnHVbaLTnffo4Dj5UiyPBm4U.jpg"
+    },
+    {
+      "name": "Aaron Hilmer",
+      "image": "/wVVbhpjsDeC6GI9Pa37qqbuVhZd.jpg"
+    },
+    {
+      "name": "Moritz Klaus",
+      "image": "/33Cw6VIZA64K1bC0fYQMrIzl5T9.jpg"
+    },
+    {
+      "name": "Adrian Grünewald",
+      "image": null
+    },
+    {
+      "name": "Edin Hasanović",
+      "image": "/MW0VhzAHi3oMtnzNuESbpx02Wa.jpg"
+    },
+    {
+      "name": "Daniel Brühl",
+      "image": "/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+    },
+    {
+      "name": "Thibault de Montalembert",
+      "image": "/3faDVXNbgVD16GZ247IaZIcNXdl.jpg"
+    },
+    {
+      "name": "Devid Striesow",
+      "image": "/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg"
+    },
+    {
+      "name": "Andreas Döhler",
+      "image": "/ie0EpjPa9bZvaqNJKR21xKjs4hf.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfcd"
+  },
+  "title": "Jurassic World Dominion",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1654041600000"
+    }
+  },
+  "category": "Adventure",
+  "movieDirector": "Colin Trevorrow",
+  "backdrop_path": "/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+  "poster_path": "/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+  "description": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+  "trailer": "DtQycgMD4HQ",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "image": "/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "image": "/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+    },
+    {
+      "name": "Laura Dern",
+      "image": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "image": "/g3yaQSRPg9Rk6IvbIizoowmXKHJ.jpg"
+    },
+    {
+      "name": "Sam Neill",
+      "image": "/bNZ03phkLewj8eUR6mGbKZ7jtmv.jpg"
+    },
+    {
+      "name": "DeWanda Wise",
+      "image": "/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+    },
+    {
+      "name": "Mamoudou Athie",
+      "image": "/iPx1s7EuBEmty7MXdKSBpEBsGYT.jpg"
+    },
+    {
+      "name": "Isabella Sermon",
+      "image": "/17lNC9C1mNuP0o5AJamwTJ9oaD5.jpg"
+    },
+    {
+      "name": "Campbell Scott",
+      "image": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+    },
+    {
+      "name": "BD Wong",
+      "image": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfce"
+  },
+  "title": "Thor: Love and Thunder",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1657065600000"
+    }
+  },
+  "category": "Fantasy",
+  "movieDirector": "Taika Waititi",
+  "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+  "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+  "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+  "trailer": "Go8nTmfrQd8",
+  "cast": [
+    {
+      "name": "Chris Hemsworth",
+      "image": "/jpurJ9jAcLCYjgHHfYF32m3zJYm.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "image": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "image": "/qCpZn2e3dimwbryLnqxZuI88PTi.jpg"
+    },
+    {
+      "name": "Tessa Thompson",
+      "image": "/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+    },
+    {
+      "name": "Taika Waititi",
+      "image": "/lxbNTecxOIlV4roX02RT4Ga2Rn2.jpg"
+    },
+    {
+      "name": "Jaimie Alexander",
+      "image": "/j3DZpaJJzgfNm3TAqhHKtFEQu01.jpg"
+    },
+    {
+      "name": "Russell Crowe",
+      "image": "/mGTtPuwE8OR00tkJGmVLJmt8KpW.jpg"
+    },
+    {
+      "name": "Chris Pratt",
+      "image": "/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+    },
+    {
+      "name": "Karen Gillan",
+      "image": "/52kqB0Bei1TaTBx2rABrijVhhTG.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "image": "/sAeWLLUFEVggkLjrnkI6NiUMtLO.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfcf"
+  },
+  "title": "Paradise City",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668124800000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Chuck Russell",
+  "backdrop_path": "/au4HUSWDRadIcl9CqySlw1kJMfo.jpg",
+  "poster_path": "/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",
+  "description": "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+  "trailer": "YBBzvgBDgxE",
+  "cast": [
+    {
+      "name": "John Travolta",
+      "image": "/sHjkE7GZbKAa9aZeiKrEBhMDT14.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "image": "/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+    },
+    {
+      "name": "Blake Jenner",
+      "image": "/kszxYaWRtBaaRueetSb6SJiiNBt.jpg"
+    },
+    {
+      "name": "Stephen Dorff",
+      "image": "/kuFyGa2HZB7hAQTUn3WKlgKAVjm.jpg"
+    },
+    {
+      "name": "Corey Large",
+      "image": "/a5fUescZlSJ8xbMdSk2BQ7a1onU.jpg"
+    },
+    {
+      "name": "Branscombe Richmond",
+      "image": "/4UFwrT68uzusdG1hcPARjxpJUIx.jpg"
+    },
+    {
+      "name": "Lorenzo Antonucci",
+      "image": "/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+    },
+    {
+      "name": "Kate Katzman",
+      "image": "/cRB3mBBqGHOkrqwcrbWowcuY3K5.jpg"
+    },
+    {
+      "name": "Amber Abara",
+      "image": "/2ZLyhL4zvLzQMFvlYt86VWqYEhV.jpg"
+    },
+    {
+      "name": "Praya Lundberg",
+      "image": "/3wpLJm9YwSJIA3xZNy7JrjmNr8a.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd0"
+  },
+  "title": "Blade of the 47 Ronin",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666656000000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Ron Yuan",
+  "backdrop_path": "/pGx6O6IwqADOsgmqWzPysmWnOyr.jpg",
+  "poster_path": "/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg",
+  "description": "In this sequel to \"47 Ronin,\" a new class of warriors emerges among the Samurai clans to keep a sought-after sword from falling into the wrong hands.",
+  "trailer": "xWN2iVRlqek",
+  "cast": [
+    {
+      "name": "Anna Akana",
+      "image": "/taJmE5h3inYhvrLXO7Dq9IMGhEp.jpg"
+    },
+    {
+      "name": "Mark Dacascos",
+      "image": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
+    },
+    {
+      "name": "Teresa Ting",
+      "image": "/saHbkcRxQpjlEhYJFGcFV8rfz2F.jpg"
+    },
+    {
+      "name": "Dustin Nguyen",
+      "image": "/ejgR5tSZYZ9zC5jKQhG6vtHunvT.jpg"
+    },
+    {
+      "name": "Dan Southworth",
+      "image": "/2DKM8LkytmWkiQjhq2QGO8n2P5H.jpg"
+    },
+    {
+      "name": "Yoshi Sudarso",
+      "image": "/8EN72XVPCXZWy57oU6AQZZC2Whw.jpg"
+    },
+    {
+      "name": "Akira Koieyama",
+      "image": "/udGNTKfxxmYOtGiAbiZfqqa9TVz.jpg"
+    },
+    {
+      "name": "Niino Furuhata",
+      "image": "/5nGPyQpN9wKpjTqJQXSICsvhOHd.jpg"
+    },
+    {
+      "name": "Luna Fujimoto",
+      "image": null
+    },
+    {
+      "name": "Chikako Fukuyama",
+      "image": "/lxMECOL5rLeFTjRffEL8vDuYLro.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd1"
+  },
+  "title": "Dragon Ball Super: Super Hero",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1654905600000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Tetsuro Kodama",
+  "backdrop_path": "/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
+  "poster_path": "/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
+  "description": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+  "trailer": "wHAaKXtfSOg",
+  "cast": [
+    {
+      "name": "Masako Nozawa",
+      "image": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      "name": "Toshio Furukawa",
+      "image": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+    },
+    {
+      "name": "Yuko Minaguchi",
+      "image": "/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+    },
+    {
+      "name": "Hiroshi Kamiya",
+      "image": "/u2r0u8tOa0cyh7nawcEOPpcEZr1.jpg"
+    },
+    {
+      "name": "Mamoru Miyano",
+      "image": "/i8n9U3JlujjyPmiZPHGkpwxkh7X.jpg"
+    },
+    {
+      "name": "Miyu Irino",
+      "image": "/dcZ4IJX8CBcJzxy8hhKFXv59LDE.jpg"
+    },
+    {
+      "name": "Ryota Takeuchi",
+      "image": "/1PZIIKxOAgn6YexksH6weYnzzhh.jpg"
+    },
+    {
+      "name": "Aya Hisakawa",
+      "image": "/qiFoBAalxs63mjk9mb6PbbpUxTm.jpg"
+    },
+    {
+      "name": "Mayumi Tanaka",
+      "image": "/dWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg"
+    },
+    {
+      "name": "Ryou Horikawa",
+      "image": "/1fiJvPrzz8Fqsjr5DVQclGojxO5.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd2"
+  },
+  "title": "Lost Bullet 2",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668038400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Guillaume Pierret",
+  "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
+  "poster_path": "/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg",
+  "description": "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.",
+  "trailer": "_Vw3Nur4YDo",
+  "cast": [
+    {
+      "name": "Alban Lenoir",
+      "image": "/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+      "name": "Stéfi Celma",
+      "image": "/kyB5o93J4vhPLriy1NrSDuxY9IP.jpg"
+    },
+    {
+      "name": "Pascale Arbillot",
+      "image": "/sFLTfpEqhkEYwYKWxrWlGW2CVXt.jpg"
+    },
+    {
+      "name": "Sébastien Lalanne",
+      "image": "/28oNL7uSHSJiaDnHWqnx56E1cvW.jpg"
+    },
+    {
+      "name": "Diego Martín",
+      "image": "/vLCrfjWAS6cjN3CUE7p3HYPYoev.jpg"
+    },
+    {
+      "name": "Jérôme Niel",
+      "image": "/dDBZKBeE5l8Tmc0biXh5Qer8vgq.jpg"
+    },
+    {
+      "name": "Anne Serra",
+      "image": "/iDMpTYv5YkxUiT03lzgKv1AsWWl.jpg"
+    },
+    {
+      "name": "Quentin D'Hainaut",
+      "image": "/li11OkRBMU0PDirbhlMBPGADw3h.jpg"
+    },
+    {
+      "name": "Thibaut Évrard",
+      "image": "/aJMT1EGokRlNncTtGcSWiGUTm79.jpg"
+    },
+    {
+      "name": "Nicolas Duvauchelle",
+      "image": "/nQsvg9syyFY112gi9TC56xIKhRI.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd3"
+  },
+  "title": "The Guardians of the Galaxy Holiday Special",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669334400000"
+    }
+  },
+  "category": "Comedy",
+  "movieDirector": "James Gunn",
+  "backdrop_path": "/nJbWAc8wakV3BncyF4643SyFWPr.jpg",
+  "poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+  "description": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+  "trailer": "OYhFFQl4fLs",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "image": "/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "image": "/sAeWLLUFEVggkLjrnkI6NiUMtLO.jpg"
+    },
+    {
+      "name": "Karen Gillan",
+      "image": "/52kqB0Bei1TaTBx2rABrijVhhTG.jpg"
+    },
+    {
+      "name": "Pom Klementieff",
+      "image": "/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "image": "/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "image": "/oiO2hyKByaNnyX8F6HFow8q2hvJ.jpg"
+    },
+    {
+      "name": "Sean Gunn",
+      "image": "/jXCNsh2c7vKWhWgpSGEdgFSLjxm.jpg"
+    },
+    {
+      "name": "Rhett Miller",
+      "image": "/pu1pcZBbkq43qxECHi3YzbZfLnn.jpg"
+    },
+    {
+      "name": "Murry Hammond",
+      "image": "/taacX0E5NrvN2aB9jM3934KdnMP.jpg"
+    },
+    {
+      "name": "Ken Bethea",
+      "image": "/mU4d5gmOm9jzW8cs5BDAAcFQxlD.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd4"
+  },
+  "title": "The Menu",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668643200000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Mark Mylod",
+  "backdrop_path": "/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+  "poster_path": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+  "description": "A couple travels to a coastal island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+  "trailer": "C_uTkUGcHv4",
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "image": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "image": "/aSOvCmB1nsl19IqrjuuWwaguvDh.jpg"
+    },
+    {
+      "name": "Nicholas Hoult",
+      "image": "/h1gXgpuXERZTVhxMdjT7uvXIyq6.jpg"
+    },
+    {
+      "name": "Hong Chau",
+      "image": "/3LIsdizzTUk9Doi0Mwwc1ROfSIy.jpg"
+    },
+    {
+      "name": "Janet McTeer",
+      "image": "/qOKAI6aunD4J5MXiwwomAhI3jI2.jpg"
+    },
+    {
+      "name": "Paul Adelstein",
+      "image": "/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "image": "/kEbXDtcPJ46GEhj5QlCTLZS6PWE.jpg"
+    },
+    {
+      "name": "Aimee Carrero",
+      "image": "/xiLYyWjTftBQ9RrPj4d4g5itUL8.jpg"
+    },
+    {
+      "name": "Reed Birney",
+      "image": "/lokffrcZ91vnsePH3BkxXiUEqqL.jpg"
+    },
+    {
+      "name": "Judith Light",
+      "image": "/zwgc0ZT8LNIfW7gDbuOFKNtTGIj.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd5"
+  },
+  "title": "Bullet Train",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1656806400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "David Leitch",
+  "backdrop_path": "/vGkMYdTApqGTtvKAt5QxT4JmMh4.jpg",
+  "poster_path": "/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
+  "description": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+  "trailer": "EGeJczJvWns",
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "image": "/oTB9vGIBacH5aQNS0pUM74QSWuf.jpg"
+    },
+    {
+      "name": "Joey King",
+      "image": "/b0diEOPPAxOOInWOP9koaqvqUvi.jpg"
+    },
+    {
+      "name": "Aaron Taylor-Johnson",
+      "image": "/vkph4FcqFrOnVbrIQD7MbJXz4Uf.jpg"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "image": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    },
+    {
+      "name": "Andrew Koji",
+      "image": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+    },
+    {
+      "name": "Hiroyuki Sanada",
+      "image": "/x6QHfdTvuuOclypoPqtdqQmlaGW.jpg"
+    },
+    {
+      "name": "Michael Shannon",
+      "image": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "name": "Bad Bunny",
+      "image": "/9W0wolhRLqKBpL8afcZnp2Xseu0.jpg"
+    },
+    {
+      "name": "Sandra Bullock",
+      "image": "/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg"
+    },
+    {
+      "name": "Zazie Beetz",
+      "image": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd6"
+  },
+  "title": "Emily the Criminal",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1660262400000"
+    }
+  },
+  "category": "Crime",
+  "movieDirector": "John Patton Ford",
+  "backdrop_path": "/gVecEIEZLZg3pV5CACXAB48I6au.jpg",
+  "poster_path": "/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg",
+  "description": "Emily, who is saddled with student debt and locked out of the job market due to a minor criminal record, gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences.",
+  "trailer": "Xzf1YCEkLDI",
+  "cast": [
+    {
+      "name": "Aubrey Plaza",
+      "image": "/4pPvrQmrzQCYpgLo8WM1AW8myoe.jpg"
+    },
+    {
+      "name": "Theo Rossi",
+      "image": "/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+    },
+    {
+      "name": "Megalyn Echikunwoke",
+      "image": "/6MlcgFphohSBTvOTDMEQwQzs66A.jpg"
+    },
+    {
+      "name": "Gina Gershon",
+      "image": "/khuZCNBmgNJ5jC4ejCkcsc8k79p.jpg"
+    },
+    {
+      "name": "Jonathan Avigdori",
+      "image": "/7TBQdiIPB0Kkjuc4l7Xdw9O5D3p.jpg"
+    },
+    {
+      "name": "Bernardo Badillo",
+      "image": null
+    },
+    {
+      "name": "Craig Stark",
+      "image": "/5GDo19fwIWKW13oFTRoKOdKlyX8.jpg"
+    },
+    {
+      "name": "Brandon Sklenar",
+      "image": "/unM5wewbqrmE2cf6DSyyKLeA05I.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd7"
+  },
+  "title": "Maneater",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1661472000000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Justin Lee",
+  "backdrop_path": "/jHKNqz0LjM2dOUv5XDPmcSoYPEW.jpg",
+  "poster_path": "/pwf3DGuWB1AptvIzHhlGxDUNnQX.jpg",
+  "description": "A group of friends on vacation in a seeming island paradise are stalked by an unrelenting great white after an accident leaves them stranded and left for dead.",
+  "trailer": "yjIQ9ubmp04",
+  "cast": [
+    {
+      "name": "Nicky Whelan",
+      "image": "/5uleEujk5NgfsSSGOacvQLJmlV9.jpg"
+    },
+    {
+      "name": "Trace Adkins",
+      "image": "/9MMbYFI0WL2rp5iQG9DeYL0Pgvl.jpg"
+    },
+    {
+      "name": "Jeff Fahey",
+      "image": "/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg"
+    },
+    {
+      "name": "Shane West",
+      "image": "/1tkAg5kgq7Nv3r0nYO7cDHGfYyr.jpg"
+    },
+    {
+      "name": "Branscombe Richmond",
+      "image": "/4UFwrT68uzusdG1hcPARjxpJUIx.jpg"
+    },
+    {
+      "name": "Porscha Coleman",
+      "image": "/fg2BRQ3OqNpAvb3st79RefwEDAy.jpg"
+    },
+    {
+      "name": "Kim DeLonghi",
+      "image": "/2eSJYs4rcliLsBAGEFuAEeLzfx3.jpg"
+    },
+    {
+      "name": "Zoe Cipres",
+      "image": null
+    },
+    {
+      "name": "Kelly Lynn Reiter",
+      "image": "/pdgxxTot78HiJbk8NcyK3qodiXl.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd8"
+  },
+  "title": "Prey",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1659398400000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Dan Trachtenberg",
+  "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+  "poster_path": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+  "description": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+  "trailer": "wZ7LytagKlc",
+  "cast": [
+    {
+      "name": "Amber Midthunder",
+      "image": "/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+    },
+    {
+      "name": "Dakota Beavers",
+      "image": "/3pCChrM7fsTA3q7VwRhq1i8VH5M.jpg"
+    },
+    {
+      "name": "Michelle Thrush",
+      "image": "/oU1Y8q2uX1JPZTOkpPgxs3MOUN9.jpg"
+    },
+    {
+      "name": "Stormee Kipp",
+      "image": "/zMAvWK5V3El3nJvrJbqPVBFSm5P.jpg"
+    },
+    {
+      "name": "Julian Black Antelope",
+      "image": "/tULt7BBKT7lRQNBbTz7z8zyZAwQ.jpg"
+    },
+    {
+      "name": "Dane DiLiegro",
+      "image": "/aUemYqMIbk17qDqNHkGc48WUJv8.jpg"
+    },
+    {
+      "name": "Stefany Mathias",
+      "image": "/ziJ5fXAQVJ6X5y6vLpcmze1dyp.jpg"
+    },
+    {
+      "name": "Bennett Taylor",
+      "image": "/eYOy0t1Obo7X9J6KsAUmgOfp56o.jpg"
+    },
+    {
+      "name": "Mike Paterson",
+      "image": "/wFTojLov6QWbLNEWIgUVVVloyvz.jpg"
+    },
+    {
+      "name": "Nelson Leis",
+      "image": "/olMl35MmkOmOp17CC3519wG30D7.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfd9"
+  },
+  "title": "Puss in Boots",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1319673600000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Chris Miller",
+  "backdrop_path": "/v2995GwNVZc5JYK0WPxgzi0AgkB.jpg",
+  "poster_path": "/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
+  "description": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.",
+  "trailer": "Znuq-daWfLE",
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "image": "/iWIUEwgn2KW50MssR7tdPeFoRGW.jpg"
+    },
+    {
+      "name": "Salma Hayek",
+      "image": "/a1VhN6kvw4tuRrIvGnvAjHAWnD5.jpg"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "image": "/hghR9AhS8OKsO4ziq5Yf7w2ZguB.jpg"
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "image": "/uJBFml6efjg34u2jvT5ugVa1cPI.jpg"
+    },
+    {
+      "name": "Amy Sedaris",
+      "image": "/uOqDhpe44mYMFvj8TRFPQh3tk1P.jpg"
+    },
+    {
+      "name": "Constance Marie",
+      "image": "/4s5IKXj9gKHwNWjm8o5LgAkBVal.jpg"
+    },
+    {
+      "name": "Mike Mitchell",
+      "image": "/9ErS7QpRTxPNPreL6hInXYUdF1X.jpg"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "image": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+    },
+    {
+      "name": "Conrad Vernon",
+      "image": "/c7MIz3sy6UPhBh9YnThd7j8ypdl.jpg"
+    },
+    {
+      "name": "Chris Miller",
+      "image": "/qKdbhP9amIRlydcoivWlTx3szuS.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfda"
+  },
+  "title": "Diary of a Wimpy Kid: Rodrick Rules",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669939200000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Luke Cormican",
+  "backdrop_path": "/94QHrTXnxdmIyXWGUpOPe7PU8DL.jpg",
+  "poster_path": "/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg",
+  "description": "A new school year, his brother Rodrick teases him over and over and over and over again. Will Greg manage to get along with him? Or will a secret ruin everything?",
+  "trailer": "16u7oeK0O90",
+  "cast": [
+    {
+      "name": "Brady Noon",
+      "image": "/cbzmfWc6BK70WfXEgm7AVbnf6K5.jpg"
+    },
+    {
+      "name": "Hunter Dillon",
+      "image": "/oyS0TEPIm0dN489rFc2epzZmRxA.jpg"
+    },
+    {
+      "name": "Ethan William Childress",
+      "image": "/5rKHessdCKHRpO4bVy6PNxitpfh.jpg"
+    },
+    {
+      "name": "Erica Cerra",
+      "image": "/crbst9frQuWVRxILtvbsLL9ZAEv.jpg"
+    },
+    {
+      "name": "Chris Diamantopoulos",
+      "image": "/rCp2ZVOFnQt2vvVn4QmOOPz5WVh.jpg"
+    },
+    {
+      "name": "Ed Asner",
+      "image": "/i9Akq9tqNwgcAc63QaSaiTYZtUB.jpg"
+    },
+    {
+      "name": "Gracen Newton",
+      "image": null
+    },
+    {
+      "name": "Christian Convery",
+      "image": "/eK9gxnka6e31sMUKQPMDPE1iDGS.jpg"
+    },
+    {
+      "name": "Veda Maharaj",
+      "image": null
+    },
+    {
+      "name": "Kimberly-Ann Truong",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfdb"
+  },
+  "title": "Orphan: First Kill",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1658880000000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "William Brent Bell",
+  "backdrop_path": "/5GA3vV1aWWHTSDO5eno8V5zDo8r.jpg",
+  "poster_path": "/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",
+  "description": "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.",
+  "trailer": "_uX6of3vBu0",
+  "cast": [
+    {
+      "name": "Isabelle Fuhrman",
+      "image": "/borthNRiTGa7oKZjLKHuUGUrZdq.jpg"
+    },
+    {
+      "name": "Julia Stiles",
+      "image": "/9PJ6G5begxnZkkwvqZqMs0Iwn5o.jpg"
+    },
+    {
+      "name": "Rossif Sutherland",
+      "image": "/25N7FFIGuPxSTCMqe0vrywzPwnv.jpg"
+    },
+    {
+      "name": "Matthew Finlan",
+      "image": "/eAyxxChemfnTDcWOFNDXxr5Zeh8.jpg"
+    },
+    {
+      "name": "Hiro Kanagawa",
+      "image": "/dyWOPJmZTfy3r3R5eDY2d7yf8Ze.jpg"
+    },
+    {
+      "name": "Samantha Walkes",
+      "image": "/hs7W2su2cbgmrzuQACAIU4zlbur.jpg"
+    },
+    {
+      "name": "David Brown",
+      "image": "/aQEVuW5IWam68nWajc7ij6xTyoN.jpg"
+    },
+    {
+      "name": "Lauren Cochrane",
+      "image": "/haOurV7B4Vh35TousTqNtwHnDfm.jpg"
+    },
+    {
+      "name": "Gwendolyn Collins",
+      "image": "/rd2RHG9lj8fAE0HpwX1CZDNx9Pu.jpg"
+    },
+    {
+      "name": "Kristen Sawatzky",
+      "image": "/m4seR2YH0BmJPPzVpe8tqoPmEr7.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfdc"
+  },
+  "title": "The Lair",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666915200000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Neil Marshall",
+  "backdrop_path": "/fMymfWwgTfXh9RkBCFuaZrdn8Of.jpg",
+  "poster_path": "/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg",
+  "description": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+  "trailer": "ebjFxaZfrQw",
+  "cast": [
+    {
+      "name": "Charlotte Kirk",
+      "image": "/v2rgc2lVbZf3fcea60IG6kpa2DI.jpg"
+    },
+    {
+      "name": "Jonathan Howard",
+      "image": "/nVVGhwoMb2TV3mMj2LZOvJ6XV03.jpg"
+    },
+    {
+      "name": "Jamie Bamber",
+      "image": "/kP1YvBoutrDMK8FWQseR3rfL5Yn.jpg"
+    },
+    {
+      "name": "Mark Strepan",
+      "image": "/eAeZduZNbSx8t9XISj6AAKOvwPX.jpg"
+    },
+    {
+      "name": "Hadi Khanjanpour",
+      "image": "/lsPDIN1vRUskJoWjkzAj55ZP0Hx.jpg"
+    },
+    {
+      "name": "Leon Ockenden",
+      "image": "/vz3CdnZMbrvjASaCtOGoFUVS8Ck.jpg"
+    },
+    {
+      "name": "Troy Alexander",
+      "image": null
+    },
+    {
+      "name": "Kibong Tanji",
+      "image": null
+    },
+    {
+      "name": "Cesare Taurasi",
+      "image": "/wgnXmYf5wMrYwyDM0T8RbCzx1wJ.jpg"
+    },
+    {
+      "name": "Adam Bond",
+      "image": "/3cQIjbibp1LijvybegLXEIKMzBs.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfdd"
+  },
+  "title": "Luck",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1659657600000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Peggy Holmes",
+  "backdrop_path": "/3VQj6m0I6gkuRaljmhNZl0XR3by.jpg",
+  "poster_path": "/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
+  "description": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+  "trailer": "xSG5UX0EQVg",
+  "cast": [
+    {
+      "name": "Eva Noblezada",
+      "image": "/70MN7sFDDGdCczZ4sTgiV6W7CrL.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "image": "/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg"
+    },
+    {
+      "name": "Jane Fonda",
+      "image": "/qwFUkBWeDhviDqA2pglNmEl7F16.jpg"
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "image": "/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+    },
+    {
+      "name": "Flula Borg",
+      "image": "/jbyMShAwxHWnCzKKCl9vYsaAW4E.jpg"
+    },
+    {
+      "name": "Lil Rel Howery",
+      "image": "/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg"
+    },
+    {
+      "name": "Colin O'Donoghue",
+      "image": "/jxdxsSd1cNY3bXqhVwe7BWNjsJ8.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "image": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Adelynn Spoon",
+      "image": "/gw9Van9nmkdaUoGdE2YVinL2Raj.jpg"
+    },
+    {
+      "name": "Grey DeLisle",
+      "image": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfde"
+  },
+  "title": "Scrooge: A Christmas Carol",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668729600000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Stephen Donnelly",
+  "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
+  "poster_path": "/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg",
+  "description": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out.",
+  "trailer": "tZylTiyaWV8",
+  "cast": [
+    {
+      "name": "Luke Evans",
+      "image": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+    },
+    {
+      "name": "Olivia Colman",
+      "image": "/1KTXGJaqWRnsoA6qeaUa7U2zkHL.jpg"
+    },
+    {
+      "name": "Jessie Buckley",
+      "image": "/ef3dmsp0MTPSmKKTpZBhBr5VFB9.jpg"
+    },
+    {
+      "name": "Johnny Flynn",
+      "image": "/xGCDMRFkUeEhz9h0cbK2lGuKTSD.jpg"
+    },
+    {
+      "name": "Fra Fee",
+      "image": "/1UnZxfqaRTpoqpafM9PEAvlHAc7.jpg"
+    },
+    {
+      "name": "Giles Terera",
+      "image": "/A7NUexegQjbQxSQ9cNB8bDQVHRW.jpg"
+    },
+    {
+      "name": "Trevor Dion Nicholas",
+      "image": "/PxD3SqcoiSycxzAN5resMhTjUa.jpg"
+    },
+    {
+      "name": "James Cosmo",
+      "image": "/uFyivAeeG3h8Gt5a99ACRC44vZL.jpg"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "image": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfdf"
+  },
+  "title": "Sonic the Hedgehog 2",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1648598400000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Jeff Fowler",
+  "backdrop_path": "/yEQqrW61rwNuVRHTjgHOAU4dXNE.jpg",
+  "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+  "description": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+  "trailer": "47r8FXYZWNU",
+  "cast": [
+    {
+      "name": "James Marsden",
+      "image": "/mk142GG0saiSXALY6V4wWcmPROW.jpg"
+    },
+    {
+      "name": "Ben Schwartz",
+      "image": "/5vV52TSEIhe4ZZLWwv3i7nfv8we.jpg"
+    },
+    {
+      "name": "Tika Sumpter",
+      "image": "/6Hb9e7jna7nml58cztAvbKgFAPx.jpg"
+    },
+    {
+      "name": "Natasha Rothwell",
+      "image": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg"
+    },
+    {
+      "name": "Adam Pally",
+      "image": "/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+    },
+    {
+      "name": "Shemar Moore",
+      "image": "/hO9pskl1sgKkghjCTa1eHVv5OMN.jpg"
+    },
+    {
+      "name": "Colleen O'Shaughnessey",
+      "image": "/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+    },
+    {
+      "name": "Lee Majdoub",
+      "image": "/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "image": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Jim Carrey",
+      "image": "/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe0"
+  },
+  "title": "Beast",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1660176000000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Baltasar Kormákur",
+  "backdrop_path": "/pz7bGOUNJXyPKJ2GcJN6nhwBnCs.jpg",
+  "poster_path": "/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg",
+  "description": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+  "trailer": "oQMc7Sq36mI",
+  "cast": [
+    {
+      "name": "Idris Elba",
+      "image": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Leah Sava Jeffries",
+      "image": "/rwTlDTN3EXVRJb5U1kPidFsFjjZ.jpg"
+    },
+    {
+      "name": "Iyana Halley",
+      "image": "/4L27vsUPVNDbDWPYtndqLfkt5uA.jpg"
+    },
+    {
+      "name": "Sharlto Copley",
+      "image": "/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+    },
+    {
+      "name": "Martin Munro",
+      "image": "/uoxExgdBNGzSZHralCrskqfZfxJ.jpg"
+    },
+    {
+      "name": "Liyabuya Gongo",
+      "image": "/Aa50NHJIvJR6uhVzYRo59mLlhnk.jpg"
+    },
+    {
+      "name": "Daniel Hadebe",
+      "image": "/gUXxRdir1U892ArOB2CuStE7bNV.jpg"
+    },
+    {
+      "name": "Thapelo Sebogodi",
+      "image": "/uaw30uyP2gorIa8Bb1Df4nDuRkj.jpg"
+    },
+    {
+      "name": "Mduduzi Mavimbela",
+      "image": null
+    },
+    {
+      "name": "Chris Gxalaba",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe1"
+  },
+  "title": "On the Line",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667174400000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Romuald Boulanger",
+  "backdrop_path": "/26D4G7okoLYbDf5MFYFlSRM6jMv.jpg",
+  "poster_path": "/a14BbSHvLgzCdbDD6tAL8OBVKL1.jpg",
+  "description": "A provocative and edgy radio host must play a dangerous game of cat and mouse with a mysterious caller who's kidnapped his family and is threatening to blow up the whole station.",
+  "trailer": "0E4hfSMpOcA",
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "image": "/oSOYCghY3XcXBYqMA0fsEi8WKaa.jpg"
+    },
+    {
+      "name": "William Moseley",
+      "image": "/wPahfIdOR6ohIgmgVrCb3RPApAU.jpg"
+    },
+    {
+      "name": "Alia Seror-O'Neill",
+      "image": "/iWIePf97qvHJENkUD3kBiRtaw0y.jpg"
+    },
+    {
+      "name": "Paul Spera",
+      "image": "/4qlCzGHJ0b0Kh4bTFx9Ofuy8RbT.jpg"
+    },
+    {
+      "name": "Kevin Dillon",
+      "image": "/tIadFMFzA6LcXaAaVpJmrd7waXQ.jpg"
+    },
+    {
+      "name": "Nadia Farès",
+      "image": "/uvomxwk2CfO8scOsR60CxHGM2J3.jpg"
+    },
+    {
+      "name": "Yoli Fuller",
+      "image": "/iYAaposeFivaPaGW1rREoNoqxSW.jpg"
+    },
+    {
+      "name": "Yann Bean",
+      "image": "/mt1AjqrEdCH8c5QQLaprYYbgl1W.jpg"
+    },
+    {
+      "name": "Enrique Arce",
+      "image": "/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
+    },
+    {
+      "name": "Carole Weyers",
+      "image": "/x0AMwBYXFv2XkLPnp8rNDYoIpLc.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe2"
+  },
+  "title": "MexZombies",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Chava Cartas",
+  "backdrop_path": "/b2FxWOxe9K7ZZ1uaPOze2RJ1ajq.jpg",
+  "poster_path": "/pTxw4GFE3ZfzJfvuUsPyD5njAuI.jpg",
+  "description": "A group of teenagers must face a zombie apocalypse, and help reestablish order.",
+  "trailer": "Gzigc5NurEs",
+  "cast": [
+    {
+      "name": "Bárbara de Regil",
+      "image": "/70TU7lNXo7AOY1zpe44OPpWb0it.jpg"
+    },
+    {
+      "name": "Iñaki Godoy",
+      "image": "/cjgF30gIyrHMzEk2dvilmRanDAL.jpg"
+    },
+    {
+      "name": "Sara Maldonado",
+      "image": "/4WqPvFBFkPOP6TMVNW00wInEVCA.jpg"
+    },
+    {
+      "name": "Vincent Michael Webb",
+      "image": null
+    },
+    {
+      "name": "Mayra Batalla",
+      "image": "/geLzEUg9FDLQr4C2UoipPvmRKS1.jpg"
+    },
+    {
+      "name": "Alejandro Puente",
+      "image": "/hKxZ5Sw4d5ExbYZZiL68yetsWsD.jpg"
+    },
+    {
+      "name": "Daniel Tovar",
+      "image": "/506g7rh3arCswDq4BRz1Tx8909x.jpg"
+    },
+    {
+      "name": "Ricardo Polanco",
+      "image": "/xAqP64xGZJTPIR86AANdyyApqXQ.jpg"
+    },
+    {
+      "name": "Roberta Damián",
+      "image": null
+    },
+    {
+      "name": "Marcelo Barcelo",
+      "image": "/12yTJP8brpSpij4rLR7PxF4NFg4.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe3"
+  },
+  "title": "Tom and Jerry Snowman's Land",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1662422400000"
+    }
+  },
+  "category": "Family",
+  "movieDirector": "Darrell Van Citters",
+  "backdrop_path": "/oqwqnaaoSpQMqAQyoEiF8W2F7Id.jpg",
+  "poster_path": "/memqWrs4zmLgMBfzTfebrOXbytG.jpg",
+  "description": "It’s time to chase that holiday spirit with Tom and Jerry! With magic in the air, Jerry and his nephew, Tuffy, make a snow mouse that miraculously comes to life! To keep their new friend, Larry the snow mouse from melting, Tuffy and Jerry must race him to the fabled Snowman’s Village. In hot pursuit, Tom and devious Dr. Doublevay have their own plans for Larry’s magic.",
+  "trailer": "7eIivLasAkM",
+  "cast": [
+    {
+      "name": "Carlos Alazraqui",
+      "image": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+    },
+    {
+      "name": "Kimberly Brooks",
+      "image": "/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+    },
+    {
+      "name": "Joey D'Auria",
+      "image": null
+    },
+    {
+      "name": "Regi Davis",
+      "image": "/yEUiqR2YbmmAPAEXH9l9NVhPaZw.jpg"
+    },
+    {
+      "name": "Laraine Newman",
+      "image": "/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "image": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "name": "Kath Soucie",
+      "image": "/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+    },
+    {
+      "name": "Stephen Stanton",
+      "image": "/uaoZXILATHT27HUnBh8Q345glc6.jpg"
+    },
+    {
+      "name": "Rick Zieff",
+      "image": "/t52zVWnyrcIPIlBOdRhlaVEyNuH.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe4"
+  },
+  "title": "Encanto",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1634083200000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Byron Howard",
+  "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+  "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+  "description": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+  "trailer": "bjMFebB2Coo",
+  "cast": [
+    {
+      "name": "Stephanie Beatriz",
+      "image": "/pGo7zMGsMXOMSMZc68Xi3LvzeP0.jpg"
+    },
+    {
+      "name": "María Cecilia Botero",
+      "image": "/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "image": "/kEbXDtcPJ46GEhj5QlCTLZS6PWE.jpg"
+    },
+    {
+      "name": "Mauro Castillo",
+      "image": "/qGNGBRyy9LumdFw32M7elnHP4IJ.jpg"
+    },
+    {
+      "name": "Jessica Darrow",
+      "image": "/rJojc1ZUasEnUxSk7lL42RxyQbP.jpg"
+    },
+    {
+      "name": "Angie Cepeda",
+      "image": "/57OE4acJypRTey5OQlQjkpv14pQ.jpg"
+    },
+    {
+      "name": "Carolina Gaitán",
+      "image": "/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg"
+    },
+    {
+      "name": "Diane Guerrero",
+      "image": "/5LXvRYdxKLWROAD2KDSXzRNNSdE.jpg"
+    },
+    {
+      "name": "Wilmer Valderrama",
+      "image": "/ApA03vxxobrGauXmQ3LpGM5EKjD.jpg"
+    },
+    {
+      "name": "Rhenzy Feliz",
+      "image": "/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe5"
+  },
+  "title": "Blue's Big City Adventure",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668729600000"
+    }
+  },
+  "category": "Family",
+  "movieDirector": "Matt Stawski",
+  "backdrop_path": "/17sIiv4LGapYnyvdpKxA1vozBqY.jpg",
+  "poster_path": "/5JV5nDPMYQLaZz2n0SmxQfMYfLn.jpg",
+  "description": "When Josh gets the opportunity of a lifetime to audition for Rainbow Puppy’s Broadway musical, Josh and Blue skidoo to NYC for the very first time where they meet new friends and discover the magic of music, dance, and following one’s dreams.",
+  "trailer": "2mWIeF3cZ2I",
+  "cast": [
+    {
+      "name": "Joshua Dela Cruz",
+      "image": "/bElyMpu3nY5RaXUXjA2VnKhMD2K.jpg"
+    },
+    {
+      "name": "Steve Burns",
+      "image": "/gqdJpTlGTPlF97HX2Hy0XL6J2ZT.jpg"
+    },
+    {
+      "name": "Donovan Patton",
+      "image": "/nxhYW1Q3I4EjsKymgZnqTInf5gi.jpg"
+    },
+    {
+      "name": "Traci Paige Johnson",
+      "image": "/A49q4z6Zb7r4uXWEMxYxEzMsuZW.jpg"
+    },
+    {
+      "name": "Nick Balaban",
+      "image": null
+    },
+    {
+      "name": "BD Wong",
+      "image": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    },
+    {
+      "name": "Ali Stroker",
+      "image": "/rRVN5cVnyjiApeuptYh0wKy2mXW.jpg"
+    },
+    {
+      "name": "Taboo",
+      "image": "/24jhif9ApnemVWosmK2Q1zxN6eo.jpg"
+    },
+    {
+      "name": "Alex Winter",
+      "image": "/3kZFRlc8zvfvziJIc7HxY803HXi.jpg"
+    },
+    {
+      "name": "Phillipa Soo",
+      "image": "/1oKShCBjS2wxeAFqPuO2XSrpa5w.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe6"
+  },
+  "title": "Mal de Ojo",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1663804800000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "Isaac Ezban",
+  "backdrop_path": "/xOcwcyLM2lqXCrZG8AIHC8DXElF.jpg",
+  "poster_path": "/sChhX2wWgVbTd6j38ADrAfHd4mE.jpg",
+  "description": "Nala, a thirteen-year-old girl from the city, travels with her family to her grandmother's home in the countryside, to try to find a cure for her little sister's mysterious illness - But she'll soon find her granny is not exactly what she seems...",
+  "trailer": "u614hH2wAYE",
+  "cast": [
+    {
+      "name": "Ofelia Medina",
+      "image": "/p58WLbFXBPUPbMu64UdJuOTwTYD.jpg"
+    },
+    {
+      "name": "Arap Bethke",
+      "image": "/del5Hp37s1fb0awRkZb8ZpTximv.jpg"
+    },
+    {
+      "name": "Samantha Castillo",
+      "image": "/lEncigxnVPIfkk8tQ3eECY7z8tz.jpg"
+    },
+    {
+      "name": "Mauro González",
+      "image": null
+    },
+    {
+      "name": "Mildred Motta",
+      "image": null
+    },
+    {
+      "name": "Ivanna Sofia Ferro",
+      "image": null
+    },
+    {
+      "name": "Paloma Alvamar",
+      "image": null
+    },
+    {
+      "name": "Paola Miguel",
+      "image": null
+    },
+    {
+      "name": "Pablo Guisa Koestinger",
+      "image": "/fe3fy6eVdwG5c6VI5GDw7TXoGfL.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe7"
+  },
+  "title": "Enola Holmes 2",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667520000000"
+    }
+  },
+  "category": "Mystery",
+  "movieDirector": "Harry Bradbeer",
+  "backdrop_path": "/u9Io1hVnxb2b3T0z99aOK8sq0SN.jpg",
+  "poster_path": "/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+  "description": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
+  "trailer": "0DIftINqIjo",
+  "cast": [
+    {
+      "name": "Millie Bobby Brown",
+      "image": "/2685xGmq68G6tmnUbfgSR6rywEV.jpg"
+    },
+    {
+      "name": "Henry Cavill",
+      "image": "/iWdKjMry5Pt7vmxU7bmOQsIUyHa.jpg"
+    },
+    {
+      "name": "Louis Partridge",
+      "image": "/wuZNRskGHWWLo3uS22VcgKcJgZB.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "image": "/DDeITcCpnBd0CkAIRPhggy9bt5.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "image": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "name": "Susan Wokoma",
+      "image": "/uzcYkQ1KWlNEOrwnklGH8C3qB1Y.jpg"
+    },
+    {
+      "name": "Adeel Akhtar",
+      "image": "/nNdjhe4t5CSqcFGCa7ERe40OW2o.jpg"
+    },
+    {
+      "name": "Sharon Duncan-Brewster",
+      "image": "/av9gsJMlTnkzcRPyURBxAvlq9YX.jpg"
+    },
+    {
+      "name": "Hannah Dodd",
+      "image": "/55KfjaxQJClbl6pEcPMKHDle4Jj.jpg"
+    },
+    {
+      "name": "Abbie Hern",
+      "image": "/duZ7DxzjMxOeFPB7VyIFuHtczAM.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe8"
+  },
+  "title": "Fullmetal Alchemist: The Final Alchemy",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1656028800000"
+    }
+  },
+  "category": "Action",
+  "movieDirector": "Fumihiko Sori",
+  "backdrop_path": "/5hoS3nEkGGXUfmnu39yw1k52JX5.jpg",
+  "poster_path": "/AeyiuQUUs78bPkz18FY3AzNFF8b.jpg",
+  "description": "The Elric brothers’ long and winding journey comes to a close in this epic finale, where they must face off against an unworldly, nationwide threat.",
+  "trailer": "cqj4u6eyDq8",
+  "cast": [
+    {
+      "name": "Ryosuke Yamada",
+      "image": "/uHRoZe9seqdshl8nl3z9KsrRVpP.jpg"
+    },
+    {
+      "name": "Atomu Mizuishi",
+      "image": "/jdTBbkd7zppcFmPDDGVS5YFtGMy.jpg"
+    },
+    {
+      "name": "Tsubasa Honda",
+      "image": "/1xdR7FXHc3zeRrMyy5qHlDQr9Ou.jpg"
+    },
+    {
+      "name": "Kanata Hongo",
+      "image": "/5BUmrqD3nbER1XV3ASSwFZitwwv.jpg"
+    },
+    {
+      "name": "Yuina Kuroshima",
+      "image": "/AlWBUgpb2hQUMc7O3901PbFr0JU.jpg"
+    },
+    {
+      "name": "Mackenyu",
+      "image": "/amnbjSvI19ZfxkZNj8WOa9tr7yu.jpg"
+    },
+    {
+      "name": "Misako Renbutsu",
+      "image": "/pBT7tT1sFhyfR4MgskLAiK10SI5.jpg"
+    },
+    {
+      "name": "Ryuta Sato",
+      "image": "/hSJoCgLBgh2qVHZh5BWihk8Gq89.jpg"
+    },
+    {
+      "name": "Hiroshi Tachi",
+      "image": "/9e8H4eqnV2wsJLaxshVlvwxxCt.jpg"
+    },
+    {
+      "name": "Yuki Yamada",
+      "image": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfe9"
+  },
+  "title": "Bromates",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1665100800000"
+    }
+  },
+  "category": "Comedy",
+  "movieDirector": "Court Crandall",
+  "backdrop_path": "/umURGLeZ48xdf1jxzY9rnVa8fDx.jpg",
+  "poster_path": "/hAaJ1XFp5FELxwJ98IWI598zaMy.jpg",
+  "description": "Longtime best friends Sid and Jonesie are dumped by their respective girlfriends. Both without a living situation, they decide to become \"bromates\", bros who are roommates, which puts their relationship to the ultimate test.",
+  "trailer": "1mXnx_MKKGY",
+  "cast": [
+    {
+      "name": "Josh Brener",
+      "image": "/sIyQYq2imu1V2RxRQ1zp70RSqTi.jpg"
+    },
+    {
+      "name": "Lil Rel Howery",
+      "image": "/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg"
+    },
+    {
+      "name": "Brendan Scannell",
+      "image": "/imI1WwpMwFki7A4EeSxhidGRtEG.jpg"
+    },
+    {
+      "name": "Asif Ali",
+      "image": "/akQ83JhkZ1IW6kg3x85FQsijn1a.jpg"
+    },
+    {
+      "name": "Jessica Lowe",
+      "image": "/vnqHQ43u3QsW5X2KDjxvl0uhOJA.jpg"
+    },
+    {
+      "name": "Nikki Tuazon",
+      "image": "/yocPEQLSTe0l06EOt6VWwGOwHok.jpg"
+    },
+    {
+      "name": "Taryn Manning",
+      "image": "/obE0w8SVx7Hq773KY2DCxK1j2GF.jpg"
+    },
+    {
+      "name": "Snoop Dogg",
+      "image": "/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg"
+    },
+    {
+      "name": "Nelcie Souffrant",
+      "image": "/nwi4bPZDR0CWkXsXdxSjL2MdMTx.jpg"
+    },
+    {
+      "name": "Rob Riggle",
+      "image": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfea"
+  },
+  "title": "The Darker the Lake",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1646870400000"
+    }
+  },
+  "category": "Crime",
+  "movieDirector": "Lok Kwan Woo",
+  "backdrop_path": "/jMIqxEovNFDs0hTTlOVoj9Y3Zf0.jpg",
+  "poster_path": "/6SPC2wUdNuhY0uJpidefCKo0AVD.jpg",
+  "description": "When strange, supernatural murders suddenly become the talk a peaceful town, two detectives must solve a deadly game, but will the myth of this game reveal secrets too close to home.",
+  "trailer": "R4okrAZCB7k",
+  "cast": [
+    {
+      "name": "Elyse Levesque",
+      "image": "/eVn30OMvrfUtlldpcAgFA9Ohozq.jpg"
+    },
+    {
+      "name": "Veronica Ferres",
+      "image": "/coHFoFuANZyDaIUBuJoOeSgGEKl.jpg"
+    },
+    {
+      "name": "Gina Stiebitz",
+      "image": "/frH4Vvnf1GN8Uf2J7xpsGuTXIwd.jpg"
+    },
+    {
+      "name": "Vladimir Burlakov",
+      "image": "/zIpN4PwIDQSNgUvR2D3cNXYn0Ae.jpg"
+    },
+    {
+      "name": "Tiffany Hsu",
+      "image": "/a5MYcV1aM5OSbcqrVU7EuNORhm5.jpg"
+    },
+    {
+      "name": "Tsao Yu-ning",
+      "image": "/wGbmdj5w132Eq5emOzzR3afo9Kr.jpg"
+    },
+    {
+      "name": "Lü Yulai",
+      "image": "/8nOzOz12gTA8dp8nEa9quoaM3DJ.jpg"
+    },
+    {
+      "name": "Ludger Bökelmann",
+      "image": "/2eUILEG4AYMhElPwocYqz5UMovJ.jpg"
+    },
+    {
+      "name": "Valerie Huber",
+      "image": "/xVQkh8FwhX0kI5NTSotQBC4Vllz.jpg"
+    },
+    {
+      "name": "Franziska Brandmeier",
+      "image": "/iACLRQgwUXWiyEzVPntTVdPaZoY.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfeb"
+  },
+  "title": "Tad, the Lost Explorer and the Emerald Tablet",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1661299200000"
+    }
+  },
+  "category": "Adventure",
+  "movieDirector": "Enrique Gato",
+  "backdrop_path": "/d5aiAn1tTH2VHVPSTIKfWoICwCh.jpg",
+  "poster_path": "/eEWi0ptaVSwLUs84rhZjtNIhgbp.jpg",
+  "description": "Tad accidentally unleashes an ancient spell, endangering the lives of his friends Mummy, Jeff, and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure to end the Curse of the Mummy.",
+  "trailer": "t07Nq-NL_jU",
+  "cast": [
+    {
+      "name": "Óscar Barberán",
+      "image": "/3Knf7YGrqS8sfXNPo7k15TIJe92.jpg"
+    },
+    {
+      "name": "Luis Posada",
+      "image": "/tTqHaQkpTbUDg4hPBHRoR4cJiFN.jpg"
+    },
+    {
+      "name": "Michelle Jenner",
+      "image": "/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg"
+    },
+    {
+      "name": "Anuska Alborg",
+      "image": null
+    },
+    {
+      "name": "Alexandra Jiménez",
+      "image": "/wkVjpWajYRV1Bj7OyJmmFcb5ixF.jpg"
+    },
+    {
+      "name": "Tito Valverde",
+      "image": null
+    },
+    {
+      "name": "Cecilia Suárez",
+      "image": "/m2lUTpivduEiRwyPIrdg8hcI8zq.jpg"
+    },
+    {
+      "name": "José Corbacho",
+      "image": "/egQOd80IDmyYifNOMdAp2sW4Ap9.jpg"
+    },
+    {
+      "name": "Berta Cortés",
+      "image": null
+    },
+    {
+      "name": "Pablo Gómez",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfec"
+  },
+  "title": "Slumberland",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1668729600000"
+    }
+  },
+  "category": "Family",
+  "movieDirector": "Francis Lawrence",
+  "backdrop_path": "/6tAYyCxF0T5oUIH95zMBC3X3W5T.jpg",
+  "poster_path": "/eCgBLNAFC4XDZ4DiyQ80PIJdSHU.jpg",
+  "description": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+  "trailer": "D7WhLZj5-LY",
+  "cast": [
+    {
+      "name": "Jason Momoa",
+      "image": "/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+    },
+    {
+      "name": "Marlow Barkley",
+      "image": "/iNMBjtP7suYzgg3Yj2iaUTdsqjy.jpg"
+    },
+    {
+      "name": "Chris O'Dowd",
+      "image": "/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+    },
+    {
+      "name": "Kyle Chandler",
+      "image": "/amOshiwsbyIyvkhm9QK48xuafyH.jpg"
+    },
+    {
+      "name": "Weruche Opia",
+      "image": "/uxDskgrzKGGuUPGdqTapXMvyeC7.jpg"
+    },
+    {
+      "name": "India de Beaufort",
+      "image": "/a0hOqwM1eBHzhSf1VkLnVXjgL1j.jpg"
+    },
+    {
+      "name": "Humberly Gonzalez",
+      "image": "/9tsJlFkKMZP02w4GPjlQedegWxf.jpg"
+    },
+    {
+      "name": "Cameron Nicoll",
+      "image": null
+    },
+    {
+      "name": "Antonio Raine Pastore",
+      "image": null
+    },
+    {
+      "name": "Chris D'Silva",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfed"
+  },
+  "title": "Hellraiser",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1664323200000"
+    }
+  },
+  "category": "Horror",
+  "movieDirector": "David Bruckner",
+  "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+  "poster_path": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+  "description": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+  "trailer": "oUlgwJNdu2I",
+  "cast": [
+    {
+      "name": "Odessa A'zion",
+      "image": "/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg"
+    },
+    {
+      "name": "Jamie Clayton",
+      "image": "/brPmDbpGPvu2DRDsGLHYZRLwBha.jpg"
+    },
+    {
+      "name": "Adam Faison",
+      "image": "/1esbkxBswmu1ZOfJ21Brhar4fWP.jpg"
+    },
+    {
+      "name": "Drew Starkey",
+      "image": "/vKDIk7HNOnDQs4uJoHwbkJPD9ua.jpg"
+    },
+    {
+      "name": "Brandon Flynn",
+      "image": "/2fir5bwu0nNB4FiQZYY5J9tWZqC.jpg"
+    },
+    {
+      "name": "Aoife Hinds",
+      "image": "/5Gckrcs7WXkMClFWszNOtuJqRou.jpg"
+    },
+    {
+      "name": "Jason Liles",
+      "image": "/qNNVcDlF30s3nfQ7ml3Q80Mjz2O.jpg"
+    },
+    {
+      "name": "Yinka Olorunnife",
+      "image": null
+    },
+    {
+      "name": "Selina Lo",
+      "image": "/ybl4DwmJNXYTQSzumJh2rmKncYb.jpg"
+    },
+    {
+      "name": "Zachary Hing",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfee"
+  },
+  "title": "The Hip Hop Nutcracker",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1669334400000"
+    }
+  },
+  "category": "Music",
+  "movieDirector": "Elizabeth Avellan",
+  "backdrop_path": "/3t0DcVPuW9JRtc1CWnh1ktCKrrO.jpg",
+  "poster_path": "/iqOGxcKViTtU7pwC24xUb1bDslw.jpg",
+  "description": "Features Rev Run as he brings audiences on a hip-hop reimagining of The Nutcracker ballet set in NYC.",
+  "trailer": "SRDGQZHsiGg",
+  "cast": [
+    {
+      "name": "Joseph Simmons",
+      "image": null
+    },
+    {
+      "name": "Mikhail Baryshnikov",
+      "image": "/phF0evzvCvJhCrj4wUXd6Pnke9g.jpg"
+    },
+    {
+      "name": "Stephen 'tWitch' Boss",
+      "image": "/2DjfxXDVK9ccXfZbvH0QNhXTQka.jpg"
+    },
+    {
+      "name": "Tiler Peck",
+      "image": "/vVTzd1lvEGG0BCiblE1zoOsqE9M.jpg"
+    },
+    {
+      "name": "Viktor White",
+      "image": null
+    },
+    {
+      "name": "Allison Holker",
+      "image": "/x6bbQ3o4xAsTejL9PX183e2sG6B.jpg"
+    },
+    {
+      "name": "Comfort Fedoke",
+      "image": "/fpeMw7Xv62Z3OpPS4i25KXVvPqo.jpg"
+    },
+    {
+      "name": "Kida Burns",
+      "image": null
+    },
+    {
+      "name": "Dushaunt Fik-Shun Stegall",
+      "image": null
+    },
+    {
+      "name": "JabbaWockeez",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacfef"
+  },
+  "title": "Minions: The Rise of Gru",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1656460800000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Kyle Balda",
+  "backdrop_path": "/bn3fAIckhOFEnrIZNCSbgHXRHLY.jpg",
+  "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+  "description": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+  "trailer": "HhIl_XJ-OGA",
+  "cast": [
+    {
+      "name": "Pierre Coffin",
+      "image": "/5HojYPP34c4agydy7D90apCMNHn.jpg"
+    },
+    {
+      "name": "Steve Carell",
+      "image": "/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+    },
+    {
+      "name": "Russell Brand",
+      "image": "/fJ9oOcEeBzDT4hHFh0GNogV6l7l.jpg"
+    },
+    {
+      "name": "Alan Arkin",
+      "image": "/aJUO84DmlxsUWLc4Vrx3NXUVMq4.jpg"
+    },
+    {
+      "name": "Taraji P. Henson",
+      "image": "/rxnEvzGlRBsE94s7lC4cMAiLluH.jpg"
+    },
+    {
+      "name": "Jean-Claude Van Damme",
+      "image": "/tTvwr94z86y5sOXfxR5FPeCYKxY.jpg"
+    },
+    {
+      "name": "Lucy Lawless",
+      "image": "/s3FqnfsjIEkWibx8QFtbyq5VnZL.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "image": "/t3hMzibYVUS1KBXFgtxuNnax8qX.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "image": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "name": "Michelle Yeoh",
+      "image": "/wPI2wn6WJEtJr1oAMTLBLh92Ryc.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff0"
+  },
+  "title": "The Batman",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1646092800000"
+    }
+  },
+  "category": "Crime",
+  "movieDirector": "Matt Reeves",
+  "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+  "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+  "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+  "trailer": "vc7_mH2PWHs",
+  "cast": [
+    {
+      "name": "Robert Pattinson",
+      "image": "/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+    },
+    {
+      "name": "Zoë Kravitz",
+      "image": "/zx74kkI931iiQATJybvRKWYnOe9.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "image": "/1nwO8yqlFmIXFjYCMv7ExmYAatK.jpg"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "image": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "name": "John Turturro",
+      "image": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "image": "/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "image": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Colin Farrell",
+      "image": "/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg"
+    },
+    {
+      "name": "Jayme Lawson",
+      "image": "/rT6ZNBhYZaRMQ6dxCTillClDO4J.jpg"
+    },
+    {
+      "name": "Gil Perez-Abraham",
+      "image": "/obJ2pGNaRJ8mtIEPshw3ocIfcIj.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff1"
+  },
+  "title": "Athena",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1662681600000"
+    }
+  },
+  "category": "Drama",
+  "movieDirector": "Romain Gavras",
+  "backdrop_path": "/ghsPsvM0sEztdNT4kUlTsBF2LEF.jpg",
+  "poster_path": "/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg",
+  "description": "Hours after the tragic death of their youngest brother in unexplained circumstances, three siblings have their lives thrown into chaos.",
+  "trailer": "vRunUkdkK8s",
+  "cast": [
+    {
+      "name": "Dali Benssalah",
+      "image": "/7SSlZW3MEqciUMbFoqmv8rsMzIW.jpg"
+    },
+    {
+      "name": "Anthony Bajon",
+      "image": "/mJKDc85hzgkVmpz9we1ingnTpiR.jpg"
+    },
+    {
+      "name": "Alexis Manenti",
+      "image": "/l4LfB4vgYuXxte9JF4HcxQsqiOY.jpg"
+    },
+    {
+      "name": "Ouassini Embarek",
+      "image": "/52wWbIrMi1KcsGB1UL6ydBGHNED.jpg"
+    },
+    {
+      "name": "Sami Slimane",
+      "image": "/r1Hg1WPyp26oLj3im3P80GEENpx.jpg"
+    },
+    {
+      "name": "Radostina Rogliano",
+      "image": "/jaSgZ1szsn2zaHbfEY6uQENr6o5.jpg"
+    },
+    {
+      "name": "Karim Lasmi",
+      "image": "/6lMxGwUuxQosMFiq168Mdxkxiyb.jpg"
+    },
+    {
+      "name": "Mehdi Abdelhakmi",
+      "image": "/gEmTOHJB0dB5L0cTaFtfkpCk8x5.jpg"
+    },
+    {
+      "name": "Tarek Haddaji",
+      "image": null
+    },
+    {
+      "name": "Guy Donald Koukissa",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff2"
+  },
+  "title": "Doctor Strange in the Multiverse of Madness",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1651622400000"
+    }
+  },
+  "category": "Fantasy",
+  "movieDirector": "Sam Raimi",
+  "backdrop_path": "/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
+  "poster_path": "/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg",
+  "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+  "trailer": "Rf8LAYJSOL8",
+  "cast": [
+    {
+      "name": "Benedict Cumberbatch",
+      "image": "/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+    },
+    {
+      "name": "Elizabeth Olsen",
+      "image": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "image": "/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "image": "/ukmfsl59Isvn9odgzMWBidA3cmt.jpg"
+    },
+    {
+      "name": "Xochitl Gomez",
+      "image": "/rkJdAasSVZRvMsYc0fDb5RuHRDF.jpg"
+    },
+    {
+      "name": "Jett Klyne",
+      "image": "/6F7fGR6iQFzKNFfHCCYZbg82Alk.jpg"
+    },
+    {
+      "name": "Julian Hilliard",
+      "image": "/umnRZFm9pQ9xB53PQwUPFOVul4j.jpg"
+    },
+    {
+      "name": "Sheila Atim",
+      "image": "/18aYPCThID2ZDemeMp8iAUuMVCX.jpg"
+    },
+    {
+      "name": "Adam Hugill",
+      "image": "/o0XToJB2MrTtNm5n2g3UYxcMNrV.jpg"
+    },
+    {
+      "name": "Michael Stuhlbarg",
+      "image": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff3"
+  },
+  "title": "Jujutsu Kaisen 0",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1640304000000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Yosuke Takada",
+  "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+  "poster_path": "/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg",
+  "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+  "trailer": "2docezZl574",
+  "cast": [
+    {
+      "name": "Megumi Ogata",
+      "image": "/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+    },
+    {
+      "name": "Kana Hanazawa",
+      "image": "/5bK9ttcRydQBWmyZp7gXDmJYOPF.jpg"
+    },
+    {
+      "name": "Yuichi Nakamura",
+      "image": "/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "name": "Takahiro Sakurai",
+      "image": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "name": "Mikako Komatsu",
+      "image": "/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+    },
+    {
+      "name": "Koki Uchiyama",
+      "image": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "image": "/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    },
+    {
+      "name": "Mitsuo Iwata",
+      "image": "/xCAsuzc5OBQZWhG5WSZIyhBZ7xj.jpg"
+    },
+    {
+      "name": "Takaya Kuroda",
+      "image": null
+    },
+    {
+      "name": "Risae Matsuda",
+      "image": "/7bUMIZ3S1Wc73d5wgNCyiLYUhyU.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff4"
+  },
+  "title": "The Infernal Machine",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1663891200000"
+    }
+  },
+  "category": "Thriller",
+  "movieDirector": "Andrew Hunt",
+  "backdrop_path": "/7AiIrnDMaOhPrw9elJ5NNjijTW4.jpg",
+  "poster_path": "/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+  "description": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+  "trailer": "q0vrecpxXZU",
+  "cast": [
+    {
+      "name": "Guy Pearce",
+      "image": "/hCzlUxrTLz3ntoPApW873sX0THf.jpg"
+    },
+    {
+      "name": "Alice Eve",
+      "image": "/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+    },
+    {
+      "name": "Jeremy Davies",
+      "image": "/b15bF582QuQjyw2Jgr5wxErWrDM.jpg"
+    },
+    {
+      "name": "Alex Pettyfer",
+      "image": "/jcejkad2OWB71Bz1RRc4Ib0961k.jpg"
+    },
+    {
+      "name": "Iris Cayatte",
+      "image": "/7Amla7DfX2PhsAbNUqyAMAkmKxy.jpg"
+    },
+    {
+      "name": "Rachel De Fontes",
+      "image": null
+    },
+    {
+      "name": "Ana Lopes",
+      "image": "/eUoo8K1PT5H0BPx7HDqzfWglQnK.jpg"
+    },
+    {
+      "name": "Georgia Goodman",
+      "image": "/igrVZq0JVIkFW1TbgaOG9ESd9pR.jpg"
+    },
+    {
+      "name": "Bella Alexandras",
+      "image": null
+    },
+    {
+      "name": "Gary Anthony Stennette",
+      "image": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff5"
+  },
+  "title": "The Soccer Football Movie",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1667952000000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Mitch Schauer",
+  "backdrop_path": "/sqVxhRkPwOo6jogWZjE99V1HRE1.jpg",
+  "poster_path": "/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg",
+  "description": "When mysterious green slime monsters start popping out of soccer balls, all-star athletes Zlatan Ibrahimović and Megan Rapinoe must team up with their four biggest fans to stop evil scientist \"Weird Al\" Yankovic from stealing their talent.",
+  "trailer": "GHI6rIQshHs",
+  "cast": [
+    {
+      "name": "Zlatan Ibrahimović",
+      "image": "/pn26udmWYWTm6iIYuUCVyHuVtIT.jpg"
+    },
+    {
+      "name": "Megan Rapinoe",
+      "image": "/nzGh8aH3jiaU9akABm93SBup2tY.jpg"
+    },
+    {
+      "name": "'Weird Al' Yankovic",
+      "image": "/1MjdjnXHokywKz6LZ1b26O5FklA.jpg"
+    },
+    {
+      "name": "Rob Stone",
+      "image": "/mEihko8LwfdFokoLH7uN9LRssa7.jpg"
+    },
+    {
+      "name": "Kieran Walton",
+      "image": null
+    },
+    {
+      "name": "Madison Zamor",
+      "image": null
+    },
+    {
+      "name": "Tania Gunadi",
+      "image": "/wrMb0ca8398ZrojtU6R0Qc3N8u7.jpg"
+    },
+    {
+      "name": "Arnie Pantoja",
+      "image": "/h4wvBxiBElwmUMFqz75RmqunC0m.jpg"
+    },
+    {
+      "name": "Ian James Corlett",
+      "image": "/idVH8zLzuKrOrjtwLWvbgE4L338.jpg"
+    },
+    {
+      "name": "Tom Kenny",
+      "image": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff6"
+  },
+  "title": "Secret Headquarters",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1660262400000"
+    }
+  },
+  "category": "Science Fiction",
+  "movieDirector": "Henry Joost",
+  "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
+  "poster_path": "/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg",
+  "description": "While hanging out after school, Charlie and his friends discover the headquarters of the world’s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.",
+  "trailer": "JR2hwFpllz4",
+  "cast": [
+    {
+      "name": "Owen Wilson",
+      "image": "/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+    },
+    {
+      "name": "Michael Peña",
+      "image": "/tu5CtDtVP4oZBVQgi0s4vgZErIg.jpg"
+    },
+    {
+      "name": "Walker Scobell",
+      "image": "/8hLsKlvCZxhSPgxOyLgg2Z0n5uK.jpg"
+    },
+    {
+      "name": "Momona Tamada",
+      "image": "/2Jgqca56bqVGyVgQvAYfAO5kqb6.jpg"
+    },
+    {
+      "name": "Keith L. Williams",
+      "image": "/xf5Bi0OrbUNwI8FnjrllHZ4tYYY.jpg"
+    },
+    {
+      "name": "Abigail James Witherspoon",
+      "image": "/7mD6pN8y5MFPVK1kllDOXzCwYyS.jpg"
+    },
+    {
+      "name": "Jesse Williams",
+      "image": "/hygNTzn3Ml92ear4ltTPYo5Pp2G.jpg"
+    },
+    {
+      "name": "Jessie Mueller",
+      "image": "/bmq06vLfLDeucyzPNZivJFOe97N.jpg"
+    },
+    {
+      "name": "Dustin Ingram",
+      "image": "/4jH3kSG3JCcjWtbIQYkGmU1Cugc.jpg"
+    },
+    {
+      "name": "Charles Melton",
+      "image": "/wTVbROEoe3zN7oz8EcXBIHUesn.jpg"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e7f002c0e5e873e4eacff7"
+  },
+  "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1602806400000"
+    }
+  },
+  "category": "Animation",
+  "movieDirector": "Haruo Sotozaki",
+  "backdrop_path": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+  "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+  "description": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+  "trailer": "XbTSLJ62YEM",
+  "cast": [
+    {
+      "name": "Natsuki Hanae",
+      "image": "/A1lGrpBEdAUxZA7RoAw4Zr4ved3.jpg"
+    },
+    {
+      "name": "Akari Kito",
+      "image": "/43SgANYtj7vpsHmz68hgPDlxC15.jpg"
+    },
+    {
+      "name": "Hiro Shimono",
+      "image": "/i5CaaqKmHH0vKCloqZyrCwn5mWy.jpg"
+    },
+    {
+      "name": "Yoshitsugu Matsuoka",
+      "image": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+    },
+    {
+      "name": "Satoshi Hino",
+      "image": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+    },
+    {
+      "name": "Takahiro Sakurai",
+      "image": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "name": "Katsuyuki Konishi",
+      "image": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+    },
+    {
+      "name": "Saori Hayami",
+      "image": "/idFQBETcsRV7Uy7InV2x9e2iFWq.jpg"
+    },
+    {
+      "name": "Kenichi Suzumura",
+      "image": "/vFqjmIjxfgBkh3ZmUin7QETV0sy.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "image": "/4N6i4cgtbeUj5AJd8kiBZ2BxxEJ.jpg"
+    }
+  ]
+}]
